@@ -76,9 +76,40 @@ oficines = oficines_raw %>%
          latitude = latitud,
          longitude = longitud)
 
+# TODO: split address.
+
 oficines$amenity = "social_facility"
 oficines$`social_facility:for` = "woman"
 oficines$source = "Generalitat de Catalunya"
 oficines$`source:date` = "2018-05-03"
 
 write.csv(oficines, file = "output/oficines_clean.csv")
+
+
+# The LGBTI Comprehensive Services Services Network of Catalonia  ---------
+#
+# Uncomment below to Fetch latest data from City council.
+# download.file("https://analisi.transparenciacatalunya.cat/resource/utrz-jf79.csv",
+#                          destfile = "data/LGBTI_raw.csv")
+
+
+LGBTI_raw = read.csv(file = "data/LGBTI_raw.csv")
+
+LGBTI = LGBTI_raw %>%
+  select(denominaci, adre_a, municipi, cp, tel_fon, latitud, longitud) %>%
+  rename(name = denominaci,
+         `addr:street` = adre_a,
+         `addr:city` = municipi,
+         `addr:postcode` = cp,
+         `contact:phone` = tel_fon,
+         latitude = latitud,
+         longitude = longitud)
+
+# TODO: split address.
+
+LGBTI$amenity = "social_facility"
+LGBTI$`social_facility:for` = "LGBTI"
+LGBTI$source = "Generalitat de Catalunya"
+LGBTI$`source:date` = "2019-01-21"
+
+write.csv(LGBTI, file = "output/LGBTI_clean.csv")
