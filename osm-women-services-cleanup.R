@@ -31,5 +31,11 @@ J007 = J007_raw %>%
                                             sep = " "))) %>%
   select(-TIPUS_VIA, -NOM_CARRER)
 
+# Add fixed values.
+J007$amenity = "social_facility"
+J007$`social_facility:for` = "woman"
+J007$source = "Ajuntament de Barcelona"
+J007$`source:date` = "2019-01-29"
+
 write.csv(J007, file = "output/J007_clean.csv")
 
