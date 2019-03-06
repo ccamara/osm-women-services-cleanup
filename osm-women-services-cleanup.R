@@ -31,6 +31,8 @@ J007 = J007_raw %>%
                                             sep = " "))) %>%
   select(-TIPUS_VIA, -NOM_CARRER)
 
+J007$description =gsub("<br>", "", J007$description)
+
 # TODO: contruct opening_times column.
 
 # TODO: replace de by d' if they are followed by vocal. The following code is an
