@@ -20,7 +20,9 @@ J007 = J007_raw %>%
          `addr:postcode` = CODI_POSTAL,
          `addr:city` = POBLACIO,
          `contact:phone` = TELEFON_NUM,
-         description = HORARI_OBSERVACIONS) %>%
+         description = HORARI_OBSERVACIONS,
+         latitude = LATITUD,
+         longitude = LONGITUD) %>%
   mutate(TIPUS_VIA = as.character(TIPUS_VIA)) %>%
   mutate(TIPUS_VIA = replace(TIPUS_VIA, TIPUS_VIA == "Av", "Avinguda de")) %>%
   mutate(TIPUS_VIA = replace(TIPUS_VIA, TIPUS_VIA == "C", "Carrer de")) %>%
@@ -31,7 +33,7 @@ J007 = J007_raw %>%
                                             sep = " "))) %>%
   select(-TIPUS_VIA, -NOM_CARRER)
 
-J007$description =gsub("<br>", "", J007$description)
+J007$description = gsub("<br>", "", J007$description)
 
 # TODO: contruct opening_times column.
 
