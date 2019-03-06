@@ -31,6 +31,12 @@ J007 = J007_raw %>%
                                             sep = " "))) %>%
   select(-TIPUS_VIA, -NOM_CARRER)
 
+# TODO: contruct opening_times column.
+
+# TODO: replace de by d' if they are followed by vocal. The following code is an
+# unsuccessful attempt.
+# J007$`addr:street` = gsub("(de )[AEIOU]", "d'", J007$`addr:street`)
+
 # Add fixed values.
 J007$amenity = "social_facility"
 J007$`social_facility:for` = "woman"
