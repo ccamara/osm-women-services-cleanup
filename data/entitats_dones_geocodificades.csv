@@ -1,0 +1,1033 @@
+Id;addr:full;addr:street;addr:housenumber;addr:block;addr:floor;addr:housename;addr:postcode;addr:city;addr:place;latitud_v1;longitud_v1;latitud;longitud;estat
+1;Avinguda de les Drassanes, 27, baixos;Avinguda de les Drassanes;27;;;;08001 ;Barcelona;;41,3769511;2,1721396;41,376752059;2,172207842;OK
+2;Carrer d'Erasme de Janer, 8;Carrer d'Erasme de Janer;8;;;;08001 ;Barcelona;;41,3796986;2,1661711;41,380068324;2,16590685;OK
+3;Carrer d'Erasme de Janer, 8, despatx 7;Carrer d'Erasme de Janer;8;;;;08001 ;Barcelona;;41,3796986;2,1661711;41,380068324;2,16590685;OK
+4;Carrer de l'Om, 5, 1r 1a B;Carrer de l'Om;5;;1;;08001 ;Barcelona;;;;41,375995746;2,172330049;OK
+5;Carrer de la Guàrdia, 14, baixos;Carrer de la Guàrdia;14;;;;08001 ;Barcelona;;;;0,0;0,0;KO
+6;Carrer de les Tàpies, 6;Carrer de les Tàpies;6;;;;08001 ;Barcelona;;41,3771863;2,1716091;41,3771863;2,1716091;KO
+7;Carrer de Sant Llàtzer, 6, 1r 1a;Carrer de Sant Llàtzer;6;;1;;08001 ;Barcelona;;;;0,0;0,0;KO
+8;Carrer de Sant Pau, 82, baixos;Carrer de Sant Pau;82;;;;08001 ;Barcelona;;;;41,377240016;2,170051714;OK
+9;Carrer del Carme, 16, principal;Carrer del Carme;16;;pral;;08001 ;Barcelona;;;;41,382592422;2,170813452;OK
+10;Carrer del Carme, 34, pral. 1a;Carrer del Carme;34;;pral;;08001 ;Barcelona;;;;41,382162497;2,1699812;OK
+11;Carrer Junta de Comerç, 17  entl.;Carrer Junta de Comerç;17;;entl;;08001 ;Barcelona;;;;0,0;0,0;KO
+12;Carrer Junta de Comerç, 17, entl. 1a;Carrer Junta de Comerç;17;;entl;;08001 ;Barcelona;;;;0,0;0,0;KO
+13;Carrer Lancaster, 5, 2n 1a;Carrer Lancaster;5;;2;;08001 ;Barcelona;;;;41,378524842;2,174188908;OK
+14;Carrer Paloma, 23;Carrer Paloma;23;;;;08001 ;Barcelona;;;;41,381750957;2,163931744;OK
+15;Carrer Regomir, 3 (C.C. Pati Llimona);Carrer Regomir;3;;;Centre Cívic Pati Llimona;08001 ;Barcelona;;;;41,381529418;2,178999274;OK
+16;Carrer Tàpies, 1-3;Carrer Tàpies;1-3;;;;08001 ;Barcelona;;;;0,0;0,0;KO
+17;Erasme de Janer, 8;Erasme de Janer;8;;;;08001 ;Barcelona;;;;41,380068324;2,16590685;OK
+18;Nou de la Rambla, 11-13, baixos;Nou de la Rambla;11-13;;;;08001 ;Barcelona;;;;41,378534655;2,173773522;OK
+19;Avinguda Portal de l'Àngel, 42, 2n A;Avinguda Portal de l'Àngel;42;;2;;08002 ;Barcelona;;;;0,0;0,0;KO
+20;C Groc, 1 baixos;C Groc;1;;;;08002 ;Barcelona;;;;41,381520146;2,179811524;OK
+21;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+22;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+23;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+24;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+25;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+26;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+27;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+28;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+29;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+30;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+31;Carrer de Ripoll, 25;Carrer de Ripoll;25;;;;08002 ;Barcelona;;41,3855359;2,1749421;41,385473794;2,175069845;OK
+32;Carrer Nou de Sant Francesc, 15;Carrer Nou de Sant Francesc;15;;;;08002 ;Barcelona;;41,378896;2,1775163;41,378986564;2,177407688;OK
+33;Carrer Ripoll, 25;Carrer Ripoll;25;;;;08002 ;Barcelona;;;;41,385473794;2,175069845;OK
+34;Carrer Ripoll, 25;Carrer Ripoll;25;;;;08002 ;Barcelona;;;;41,385473794;2,175069845;OK
+35;Passatge del Rellotge, 3;Passatge del Rellotge;3;;;;08002 ;Barcelona;;41,3800287;2,1773096;41,380119199;2,17721473;OK
+36;Plaça de Catalunya, 9, 5a planta, 2a;Plaça de Catalunya;9;;5;;08002 ;Barcelona;;;;0,0;0,0;KO
+37;Rambla Catalunya, 10, pral.;Rambla Catalunya;10;;pral;;08002 ;Barcelona;;;;41,388039746;2,167869549;OK
+38;Rambla de Santa Mònica, 10;Rambla de Santa Mònica;10;;;;08002 ;Barcelona;;;;0,0;0,0;KO
+39;Rambla de Santa Mònica, 10;Rambla de Santa Mònica;10;;;;08002 ;Barcelona;;;;0,0;0,0;KO
+40;Rambla de Santa Mònica, 10;Rambla de Santa Mònica;10;;;;08002 ;Barcelona;;;;0,0;0,0;KO
+41;Rambla de Santa Mònica, 10;Rambla de Santa Mònica;10;;;;08002 ;Barcelona;;;;0,0;0,0;KO
+42;Carrer Brosolí, 4;Carrer Brosolí;4;;;;08003 ;Barcelona;;;;0,0;0,0;KO
+43;Carrer Comerç, 36;Carrer Comerç;36;;;;08003 ;Barcelona;;;;0,0;0,0;KO
+44;Carrer del Rec 27, bxos;Carrer del Rec;27;;;;08003 ;Barcelona;;;;41,385978589;2,18233778;OK
+45;Carrer Jonqueres, 10, 1r 2a;Carrer Jonqueres;10;;1;;08003 ;Barcelona;;;;41,388229027;2,174161591;OK
+46;Carrer Mare de Déu del Pilar, 15, entl.;Carrer Mare de Déu del Pilar;15;;entl;;08003 ;Barcelona;;;;0,0;0,0;KO
+47;Carrer Sant Pere Més Alt, 46;Carrer Sant Pere Més Alt;46;;;;08003 ;Barcelona;;;;0,0;0,0;KO
+48;Carrer Sant Pere més baix, 7, 2n;Carrer Sant Pere més baix;7;;2;;08003 ;Barcelona;;;;0,0;0,0;KO
+49;Carrer Sevilla, 37, 1r;Carrer Sevilla;37;;1;;08003 ;Barcelona;;;;41,378116064;2,189581927;OK
+50;Carrer Verdaguer i Callis, 10;Carrer Verdaguer i Callis;10;;;;08003 ;Barcelona;;;;41,387007154;2,176052492;OK
+51;Via Laietana 33, 6è 1a;Via Laietana;33;;6;;08003 ;Barcelona;;;;41,385070472;2,177081716;OK
+52;Via Laietana, 40, 3r 2a B;Via Laietana;40;;3;;08003 ;Barcelona;;;;41,385954762;2,176278037;OK
+53;Via Laietana, 54, 1r;Via Laietana;54;;1;;08003 ;Barcelona;;;;41,387267511;2,174670469;OK
+54;Via Laietana, 57, 1r 1a;Via Laietana;57;;1;;08003 ;Barcelona;;;;41,387524109;2,173830226;OK
+55;Avinguda del Paral.lel, 113, 2n 2a;Avinguda del Paral.lel;113;;2;;08004 ;Barcelona;;;;41,374798527;2,162249791;OK
+56;Carrer d'Elkano, 24;Carrer d'Elkano;24;;;;08004 ;Barcelona;;41,3726665;2,1646705;41,372826303;2,164353069;OK
+57;Carrer Rabí Ruben, 22;Carrer Rabí Ruben;22;;;;08004 ;Barcelona;;;;0,0;0,0;KO
+58;Carrer de l'Amistat, 15, baixos;Carrer de l'Amistat;15;;;;08005 ;Barcelona;;;;41,400093877;2,205554624;OK
+59;Carrer Doctor Trueta, 69;Carrer Doctor Trueta;69;;;;08005 ;Barcelona;;41,39932975;2,204415415;41,392552686;2,195173655;OK
+60;Carrer Pallars, 277 (Centre Cívic);Carrer Pallars;277;;;Centre Cívic;08005 ;Barcelona;;;;41,404014343;2,201387517;OK
+61;Carrer Pallars, 277, 2a (Centre Cívic Can Felipa);Carrer Pallars;277;;2;Centre Cívic Can Felipa;08005 ;Barcelona;;;;41,404014343;2,201387517;OK
+62;Carrer Ramón Turró, 10, esc. B, 1r 1a;Carrer Ramón Turró;10;B;1;;08005 ;Barcelona;;;;0,0;0,0;KO
+63;Carrer Salvador Espriu, 33, 1r 1a;Carrer Salvador Espriu;33;;1;;08005 ;Barcelona;;;;41,389348109;2,197250511;OK
+64;Rambla de Poblenou, 90, 1r 4a;Rambla de Poblenou;90;;1;;08005 ;Barcelona;;;;41,402002353;2,200210329;OK
+65;Avinguda Diagonal, 452;Avinguda Diagonal;452;;;;08006 ;Barcelona;;41,3964051;2,1577394;41,396333466;2,157749399;OK
+66;Carrer Alfons XII, 19-21, pral. 1a;Carrer Alfons XII;19-21;;pral;;08006 ;Barcelona;;;;41,398185338;2,149871896;OK
+67;Carrer de Balmes 177, 3r 1a;Carrer de Balmes;177;;3;;08006 ;Barcelona;;;;41,396292052;2,153277837;OK
+68;Carrer de Puig-Reig, 10, baixos;Carrer de Puig-Reig;10;;;;08006 ;Barcelona;;;;41,404706933;2,143035319;OK
+69;Carrer de Tuset 18, 5è 1a;Carrer de Tuset;18;;5;;08006 ;Barcelona;;;;41,395818224;2,152314669;OK
+70;Carrer Francolí, 50, baixos;Carrer Francolí;50;;;;08006 ;Barcelona;;;;0,0;0,0;KO
+71;Carrer Ronda General Mitre, 146;Carrer Ronda General Mitre;146;;;;08006 ;Barcelona;;;;41,403460118;2,139138697;OK
+72;Carrer de Tuset 18, 5è 1a;Carrer de Tuset;18;;5;;08006 ;Barcelona;;;;41,395818224;2,152314669;OK
+73;Carrer Tuset, 23-25, 6è 8a;Carrer Tuset;23-25;;6;;08006 ;Barcelona;;;;41,396409439;2,151104135;OK
+74;Carrer Tuset, 32, 7è 4a;Carrer Tuset;32;;7;;08006 ;Barcelona;;;;41,396485991;2,1514324;OK
+75;Carrer Aragó, 259, entl. 1r B;Carrer Aragó;259;;entl;;08007 ;Barcelona;;;;41,391753986;2,164067433;OK
+76;Carrer Aragó, 268;Carrer Aragó;268;;;;08007 ;Barcelona;;;;41,391318659;2,164024911;OK
+77;Carrer València, 231, 6a;Carrer València;231;;6;;08007 ;Barcelona;;;;0,0;0,0;KO
+78;Rambla de Catalunya, 10;Rambla de Catalunya;10;;;;08007 ;Barcelona;;41,3880191;2,1679205;41,388039746;2,167869549;OK
+79;Rambla de Catalunya 45, 1r 1a;Rambla de Catalunya;45;;1;;08007 ;Barcelona;;;;41,390327172;2,164200822;OK
+80;Rambla de Catalunya 45, 1r 1a;Rambla de Catalunya;45;;1;;08007 ;Barcelona;;;;41,390327172;2,164200822;OK
+81;Rambla de Catalunya, 10;Rambla de Catalunya;10;;;;08007 ;Barcelona;;41,3880191;2,1679205;41,388039746;2,167869549;OK
+82;Rambla de Catalunya, 45, 1a;Rambla de Catalunya;45;;1;;08007 ;Barcelona;;;;41,390327172;2,164200822;OK
+83;Carrer Còrsega, 272, 1r;Carrer Còrsega;272;;1;;08008 ;Barcelona;;;;0,0;0,0;KO
+84;Rambla de Catalunya, 124;Rambla de Catalunya;124;;;;08008 ;Barcelona;;41,395327;2,1580297;41,39519526;2,158064829;OK
+85;Carrer d'Aragó, 335, entl.;Carrer d'Aragó;335;;entl;;08009 ;Barcelona;;;;41,39652394;2,170402075;OK
+86;Carrer de la Diputació, 306, principal;Carrer de la Diputació;306;;pral;;08009 ;Barcelona;;;;41,39368076;2,171602528;OK
+87;Carrer de la Diputació, 306, principal;Carrer de la Diputació;306;;pral;;08009 ;Barcelona;;;;41,39368076;2,171602528;OK
+88;Carrer Pau Claris, 138, 6è 3a;Carrer Pau Claris;138;;6;;08009 ;Barcelona;;;;41,393696926;2,166018168;OK
+89;Carrer Roger de Llúria, 44, 3r 3a;Carrer Roger de Llúria;44;;3;;08009 ;Barcelona;;;;0,0;0,0;KO
+90;Carrer Roger de Llúria, 44, 3r 3a;Carrer Roger de Llúria;44;;3;;08009 ;Barcelona;;;;0,0;0,0;KO
+91;Carrer Valencia 302 (Casa Elizalde);Carrer Valencia;302;;;Casa Elizalde;08009 ;Barcelona;;;;41,394487655;2,165883222;OK
+92;Carrer Roger de Llúria, 44, 3r 3a;Carrer Roger de Llúria;44;;3;;08009 ;Barcelona;;;;0,0;0,0;KO
+93;Carrer Roger de Llúria, 44, 3r 3a;Carrer Roger de Llúria;44;;3;;08009 ;Barcelona;;;;0,0;0,0;KO
+94;Carrer d'Ali Bei, 25, 3r;Carrer d'Ali Bei;25;;3;;08010 ;Barcelona;;;;41,391819277;2,178322664;OK
+95;Carrer d'Ali Bei, 34 3r 2a;Carrer d'Ali Bei;34;;3;;08010 ;Barcelona;;;;41,39329477;2,180659751;OK
+96;Carrer de Girona, 25, pral.;Carrer de Girona;25;;pral;;08010 ;Barcelona;;;;41,39180945;2,174925079;OK
+97;Passeig de Sant Joan, 44, 4t 2a;Passeig de Sant Joan;44;;4;;08010 ;Barcelona;;;;41,393704012;2,177548088;OK
+98;Carrer Casanova, 94 2n 1r;Carrer Casanova;94;;2;;08011 ;Barcelona;;;;41,386939626;2,156911992;OK
+99;Carrer Consell de Cent, 226, àtic, 3a;Carrer Consell de Cent;226;;àtic;;08011 ;Barcelona;;;;41,386108997;2,15927111;OK
+100;Carrer Diputació, 185, entlo 2ª;Carrer Diputació;185;;entl;;08011 ;Barcelona;;;;41,385341363;2,160142254;OK
+101;Carrer Muntaner, 50, entresòl 1a;Carrer Muntaner;50;;entl;;08011 ;Barcelona;;;;41,386205729;2,160147633;OK
+102;Carrer Avinyó, 44 principal 1a;Carrer Avinyó;44;;pral;;08012 ;Barcelona;;;;0,0;0,0;KO
+103;Carrer Benet Mercadé, 9-11, baixos;Carrer Benet Mercadé;9-11;;;;08012 ;Barcelona;;;;0,0;0,0;KO
+104;Carrer de Jaén, 16, 3r 2a;Carrer de Jaén;16;;3;;08012 ;Barcelona;;;;0,0;0,0;KO
+105;Carrer Gran de Gràcia, 77, pral. 1a;Carrer Gran de Gràcia;77;;pral;;08012 ;Barcelona;;;;0,0;0,0;KO
+106;Carrer Quevedo, 2, baixos;Carrer Quevedo;2;;;;08012 ;Barcelona;;;;41,402182154;2,162807554;OK
+107;Carrer de Padilla 208-210, baixos -Espai 210-;Carrer de Padilla;208-210;;;;08013 ;Barcelona;;;;41,412138621;2,168214064;OK
+108;Carrer València, 415, baixos;Carrer València;415;;;;08013 ;Barcelona;;;;0,0;0,0;KO
+109;Carrer de Valladolid, 30, baixos;Carrer de Valladolid;30;;;;08014 ;Barcelona;;;;41,377882112;2,136762941;OK
+110;Carrer del Doctor Ibàñez, 9, local;Carrer del Doctor Ibàñez;9;;;;08014 ;Barcelona;;;;0,0;0,0;KO
+111;Carrer Olzinelles, 30;Carrer Olzinelles;30;;;;08014 ;Barcelona;;;;41,372836954;2,136524862;OK
+112;Carrer Sta. Caterina, 16, local 1;Carrer Sta. Caterina;16;;;;08014 ;Barcelona;;;;41,378438964;2,136939237;OK
+113;Carrer Violant d'Hongria Reina d'Aragó, 165 4rt 2n A;Carrer Violant d'Hongria Reina d'Aragó;165;;4;;08014 ;Barcelona;;;;0,0;0,0;KO
+114;Gran Via de les Corts Catalanes, 181-247 (Centre Cívic Magòria);Gran Via de les Corts Catalanes;181-247;;;Centre Cívic Magòria;08014 ;Barcelona;;;;41,369152833;2,140872117;OK
+115;Passeig de Sant Antoni, 8-10, 1r 1a;Passeig de Sant Antoni;8-10;;1;;08014 ;Barcelona;;;;41,376116174;2,136637667;OK
+116;Avinguda del Paral·lel, 116, 4t 1a;Avinguda del Paral·lel;116;;4;;08015 ;Barcelona;;;;41,375172243;2,163551336;OK
+117;Avinguda del Paral·lel, 96;Avinguda del Paral·lel;96;;;;08015 ;Barcelona;;41,37515886;2,163909124;41,375162401;2,166121543;OK
+118;Carrer Calàbria, 73, 3r 3a;Carrer Calàbria;73;;3;;08015 ;Barcelona;;;;0,0;0,0;KO
+119;Carrer d'Entença, 70, 3r 1a;Carrer d'Entença;70;;3;;08015 ;Barcelona;;;;0,0;0,0;KO
+120;Carrer de Viladomat, 174;Carrer de Viladomat;174;;;;08015 ;Barcelona;;41,3827238;2,153663117;41,383530482;2,152393376;OK
+121;Carrer de Viladomat, 174, 5è;Carrer de Viladomat;174;;5;;08015 ;Barcelona;;;;41,383530482;2,152393376;OK
+122;Carrer Rocafort, 129;Carrer Rocafort;129;;;;08015 ;Barcelona;;;;41,380672023;2,151288927;OK
+123;Carrer Vilamarí, 31, baixos;Carrer Vilamarí;31;;;;08015 ;Barcelona;;;;41,37638738;2,152457684;OK
+124;Gran Via de les Corts Catalanes, 488, entl. 4a;Gran Via de les Corts Catalanes;488;;entl;;08015 ;Barcelona;;;;41,380362508;2,156733142;OK
+125;Carrer Escòcia, 50, 4t 1a;Carrer Escòcia;50;;4;;08016 ;Barcelona;;;;0,0;0,0;KO
+126;Carrer Estudiant, 26-28, baixos;Carrer Estudiant;26-28;;;;08016 ;Barcelona;;;;41,433734969;2,17749001;OK
+127;Carrer de Jaume Piquet, 23 (Casa Orlandai);Carrer de Jaume Piquet;23;;;Casa Orlandai;08017 ;Barcelona;;;;41,398328729;2,124653525;OK
+128;Carrer de Jaume Piquet, 23 (Casa Orlandai);Carrer de Jaume Piquet;23;;;Casa Orlandai;08017 ;Barcelona;;;;41,398328729;2,124653525;OK
+129;Carrer Reis Catòlics, 16-34;Carrer Reis Catòlics;16-34;;;;08017 ;Barcelona;;;;0,0;0,0;KO
+130;Carretera Vallvidrera-Sant Cugat, km.6,5 (FFCC Les Planes);Carretera Vallvidrera-Sant Cugat;km.6;;;FFCC Les Planes;08017 ;Barcelona;;;;0,0;0,0;KO
+131;Carrer Concili de Trent, 13, 1r 4a, esc. 5;Carrer Concili de Trent;13;;1;;08018 ;Barcelona;;;;41,410848502;2,191863159;OK
+132;Carrer Sevilla, 37, 1r;Carrer Sevilla;37;;1;;08018 ;Barcelona;;;;41,378116064;2,189581927;OK
+133;Carrer Zamora, 103-105, baixos;Carrer Zamora;103-105;;;;08018 ;Barcelona;;;;41,396207581;2,18932518;OK
+134;Carrer Zamora, 105, 3r 4a;Carrer Zamora;105;;3;;08018 ;Barcelona;;;;41,396207581;2,18932518;OK
+135;Gran Via, 837 (La Farinera del Clot);Gran Via;837;;;La Farinera del Clot;08018 ;Barcelona;;;;41,40491505;2,188444136;OK
+136;Plaça Joan Casanelles, s/n (Casal);Plaça Joan Casanelles;s/n;;;Casal;08018 ;Barcelona;;;;0,0;0,0;KO
+137;Carrer Bac de Roda, 4, 1r 3a;Carrer Bac de Roda;4;;1;;08019 ;Barcelona;;;;41,402430892;2,210977905;OK
+138;Carrer Catània, 3, baixos;Carrer Catània;3;;;;08019 ;Barcelona;;;;0,0;0,0;KO
+139;Carrer Selva de Mar, 16 B, baixos 3a;Carrer Selva de Mar;16 B;;;;08019 ;Barcelona;;;;41,406148044;2,213203478;OK
+140;Carrer Selva de Mar, 22-32;Carrer Selva de Mar;22-32;;;;08019 ;Barcelona;;;;41,41858789;2,195907059;OK
+141;Rambla de Prim, 87-89;Rambla de Prim;87-89;;;;08019 ;Barcelona;;41,41672252;2,211568763;41,427959284;2,197817871;OK
+142;Rambla de Prim, 64-72;Rambla de Prim;64-72;;;;08019 ;Barcelona;;41,41515313;2,21486353;41,427959284;2,197817871;OK
+143;Rambla de Prim, 45, 7è 4a;Rambla de Prim;45;;7;;08019 ;Barcelona;;;;41,413520958;2,215853148;OK
+144;Rambla de Prim, 87-89;Rambla de Prim;87-89;;;;08019 ;Barcelona;;41,41672252;2,211568763;41,427959284;2,197817871;OK
+145;Carrer Paraguay, 27 Entresol 3r;Carrer Paraguay;27;;entl;;08020 ;Barcelona;;;;41,417300336;2,207589372;OK
+146;Carrer Pere Vergés, 1, 7è (Hotel d'Entitats La Pau);Carrer Pere Vergés;1;;7;Hotel d'Entitats La Pau;08020 ;Barcelona;;;;0,0;0,0;KO
+147;Carrer Pere Vergés, 1, planta 10a despatx 1 (Hotel d'Entitats);Carrer Pere Vergés;1;;10;Hotel d'Entitats La Pau;08020 ;Barcelona;;;;0,0;0,0;KO
+148;Carrer Selva de Mar, 215, 5è;Carrer Selva de Mar;215;;5;;08020 ;Barcelona;;;;41,416623907;2,198564642;OK
+149;Carrer Selva de Mar, 215, 6 planta, taller 6;Carrer Selva de Mar;215;;6;;08020 ;Barcelona;;;;41,416623907;2,198564642;OK
+150;Carrer Selva de Mar, 215, 6a planta, taller 6;Carrer Selva de Mar;215;;6;;08020 ;Barcelona;;;;41,416623907;2,198564642;OK
+151;Rambla de Guipúscoa, 62, 2n 1a;Rambla de Guipúscoa;62;;2;;08020 ;Barcelona;;;;41,415932666;2,196887259;OK
+152;Carrer  Muntaner, 354, 1r 2a;Carrer  Muntaner;354;;1;;08021 ;Barcelona;;;;41,398611037;2,143733547;OK
+153;Carrer Laforja, 67, 4t 2a;Carrer Laforja;67;;4;;08021 ;Barcelona;;;;41,396913096;2,146246938;OK
+154;Carrer Madrazo, 96, 5è H;Carrer Madrazo;96;;5;;08021 ;Barcelona;;;;41,397693976;2,145489398;OK
+155;Carrer Marià Cubí, 193, entl. 3a;Carrer Marià Cubí;193;;entl;;08021 ;Barcelona;;;;0,0;0,0;KO
+156;Carrer Folgueroles, 17-25, esc. 2, 3r 2a;Carrer Folgueroles;17-25;2;3;;08022 ;Barcelona;;;;41,408225965;2,136046075;OK
+157;Avinguda República Argentina 6, 4t 2a;Avinguda República Argentina;6;;4;;08023 ;Barcelona;;;;0,0;0,0;KO
+158;Carrer Elisa, 23-25;Carrer Elisa;23-25;;;;08023 ;Barcelona;;;;41,405575494;2,140918048;OK
+159;Carrer Veciana, 2;Carrer Veciana;2;;;;08023 ;Barcelona;;;;41,420748699;2,141032152;OK
+160;Plaça Gran Miró, 2B;Plaça Gran Miró;2B;;;;08023 ;Barcelona;;;;0,0;0,0;KO
+161;Avinguda Pompeu Fabra, 13, baixos;Avinguda Pompeu Fabra;13;;;;08024 ;Barcelona;;;;41,414240025;2,15876565;OK
+162;Carrer Alzina, 3, 2n 2a;Carrer Alzina;3;;2;;08024 ;Barcelona;;;;41,405917273;2,156820265;OK
+163;Carrer Cardener, 45;Carrer Cardener;45;;;;08024 ;Barcelona;;;;41,410084965;2,157016948;OK
+164;Carrer Marianao, 9, àtic B;Carrer Marianao;9;;àtic;;08024 ;Barcelona;;;;41,412879738;2,154338384;OK
+165;Carrer Martí, 37, àtic 3a;Carrer Martí;37;;àtic;;08024 ;Barcelona;;;;41,43024802;2,09865458;OK
+166;Carrer Mercedes, 4, 3r 1a;Carrer Mercedes;4;;3;;08024 ;Barcelona;;;;41,412551129;2,152962522;OK
+167;Carrer Providència, 42;Carrer Providència;42;;;;08024 ;Barcelona;;;;0,0;0,0;KO
+168;Carrer Providència, 42 (Hotel d'Entitats de Gràcia);Carrer Providència;42;;;Hotel d'Entitats de Gràcia;08024 ;Barcelona;;;;0,0;0,0;KO
+169;Carrer Providència, 42, 1r;Carrer Providència;42;;1;;08024 ;Barcelona;;;;0,0;0,0;KO
+170;Carrer Providència, 80, àtic 3a;Carrer Providència;80;;àtic;;08024 ;Barcelona;;;;0,0;0,0;KO
+171;Carrer Reig i Bonet, 3, baixos;Carrer Reig i Bonet;3;;;;08024 ;Barcelona;;;;41,407214193;2,159491718;OK
+172;Carrer de la Marina, 315;Carrer de la Marina;315;;;;08025 ;Barcelona;;41,40645313;2,170977771;41,40735008;2,170509219;OK
+173;Carrer Sant Antoni Maria Claret, 31, entl. 1a;Carrer Sant Antoni Maria Claret;31;;entl;;08025 ;Barcelona;;;;41,404685061;2,165509221;OK
+174;Carrer Independència, 375, baixos;Carrer Independència;375;;;;08026 ;Barcelona;;;;0,0;0,0;KO
+175;Carrer Provença, 595-597, baixos;Carrer Provença;595-597;;;;08026 ;Barcelona;;;;0,0;0,0;KO
+176;Carrer de la Comtessa Pardo Bazán, 4- 6, Local;Carrer de la Comtessa Pardo Bazán;4- 6;;;;08027 ;Barcelona;;;;0,0;0,0;KO
+177;Carrer Martí Molins, 29 (Centre Cívic la Sagrera);Carrer Martí Molins;29;;;Centre Cívic la Sagrera;08027 ;Barcelona;;;;0,0;0,0;KO
+178;Carrer Benavent, 29-31, 4t;Carrer Benavent;29-31;;4;;08028 ;Barcelona;;;;41,378310739;2,124918869;OK
+179;Carrer de les Corts, 10, àtic 4a;Carrer de les Corts;10;;àtic;;08028 ;Barcelona;;;;41,384701936;2,129140665;OK
+180;Carrer de Sants, 305, s/àt. 1a;Carrer de Sants;305;;s/àtic;;08028 ;Barcelona;;;;41,375452978;2,128587352;OK
+181;Carrer de Sants, 391, 1r 1a;Carrer de Sants;391;;1;;08028 ;Barcelona;;;;41,375541737;2,124253162;OK
+182;Carrer Galileu, 336, entl. 2a;Carrer Galileu;336;;entl;;08028 ;Barcelona;;;;41,3864717;2,131107321;OK
+183;Carrer Lluçà, 34;Carrer Lluçà;34;;;;08028 ;Barcelona;;;;0,0;0,0;KO
+184;Carrer Lluís Soler i Sabarís, s/n (Institut Jaume Almera-CSIC);Carrer Lluís Soler i Sabarís;s/n;;;Institut Jaume Almera-CSIC;08028 ;Barcelona;;;;0,0;0,0;KO
+185;Carrer Taquígraf Martí, 30;Carrer Taquígraf Martí;30;;;;08028 ;Barcelona;;;;0,0;0,0;KO
+186;Carrer Violant d'Hongria, 34-36;Carrer Violant d'Hongria;34-36;;;;08028 ;Barcelona;;;;41,378002088;2,128422832;OK
+187;Travessera de les Corts, 228 Bis;Travessera de les Corts;228 Bis;;;;08028 ;Barcelona;;41,3835827;2,1300511;41,384531047;2,131748457;OK
+188;Calàbria, 262;Calàbria;262;;;;08029 ;Barcelona;;41,38718302;2,145433868;41,38718302;2,145433868;KO
+189;Calle Rocafort, 242 Bis. piso 1 despacho D 2.;Calle Rocafort;242 Bis;;1;;08029 ;Barcelona;;;;0,0;0,0;KO
+190;Carrer Calàbria, 262;Carrer Calàbria;262;;;;08029 ;Barcelona;;;;0,0;0,0;KO
+191;Carrer de Berlín, 80, 4t 2a;Carrer de Berlín;80;;4;;08029 ;Barcelona;;;;0,0;0,0;KO
+192;Carrer de Rocafort, 242 bis, 1r despatx 11;Carrer de Rocafort;242 bis;;1;;08029 ;Barcelona;;;;41,385324832;2,145121157;OK
+193;Pl Doctor Ignasi Barraquer, 0006;Pl Doctor Ignasi Barraquer;6;;;;08029 ;Barcelona;;;;0,0;0,0;KO
+194;Carrer Andana de l'Estació, 52, 4t 3a, esc. 3;Carrer Andana de l'Estació;52;;4;;08030 ;Barcelona;;;;41,437546988;2,19360797;OK
+195;Carrer Barcelonesa, 1, 4t 2a;Carrer Barcelonesa;1;;4;;08030 ;Barcelona;;;;41,437602714;2,195643219;OK
+196;"Carrer Cuba, 2 (Hotel Entitats ""Can Guardiola"")";Carrer Cuba;2;;;Hotel Entitats Can Guardiola;08030 ;Barcelona;;;;41,4299284;2,188536348;OK
+197;Carrer Cuba, 2-6 1r oficina 2B;Carrer Cuba;2-6;;1;;08030 ;Barcelona;;;;41,429185423;2,188819509;OK
+198;Carrer de Claramunt, 4, local 2;Carrer de Claramunt;4;;;;08030 ;Barcelona;;;;41,43666459;2,203792197;OK
+199;Carrer de Cuba, 2 (Hotel d'Entitats Can Guardiola);Carrer de Cuba;2;;;Hotel Entitats Can Guardiola;08030 ;Barcelona;;;;41,4299284;2,188536348;OK
+200;Carrer Gran de Sant Andreu, 111 (Centre Cívic Sant Andreu);Carrer Gran de Sant Andreu;111;;;Centre Cívic Sant Andreu;08030 ;Barcelona;;;;41,430844934;2,189396575;OK
+201;Claramunt, 4 loc 2;Claramunt;4;;;;08030 ;Barcelona;;;;41,43666459;2,203792197;OK
+202;Carrer Cartellà, 22, 3r 2a;Carrer Cartellà;22;;3;;08031 ;Barcelona;;;;41,427256368;2,174494037;OK
+203;Carrer Feliu i Codina, 20 (Centre Cívic);Carrer Feliu i Codina;20;;;Centre Cívic;08031 ;Barcelona;;;;41,432758854;2,160706217;OK
+204;Carrer Pere d'Artés, 4;Carrer Pere d'Artés;4;;;;08031 ;Barcelona;;;;0,0;0,0;KO
+205;Carrer Santa Fe, 2 bis -Masia- (Centre Cívic Torre Llobeta);Carrer Santa Fe;2 bis;;;Centre Cívic Torre Llobeta;08031 ;Barcelona;;;;41,426555091;2,17377939;OK
+206;Carrer Santa Fe, 5;Carrer Santa Fe;5;;;;08031 ;Barcelona;;;;41,426938838;2,173793535;OK
+207;Carrer Vall d'Ordesa, 12, baixos;Carrer Vall d'Ordesa;12;;;;08031 ;Barcelona;;;;41,431180544;2,165824048;OK
+208;Passeig Fabra i Puig  274-276 (CC Can Basté);Passeig Fabra i Puig;274-276;;;Centre Cívic Can Basté;08031 ;Barcelona;;;;41,430456503;2,173216157;OK
+209;Passeig Fabra i Puig, 274 (Masia Can Basté);Passeig Fabra i Puig;274;;;Centre Cívic Can Basté;08031 ;Barcelona;;;;41,430456503;2,173216157;OK
+210;Carrer de la Manxa, 4, soterrani 3r 1a;Carrer de la Manxa;4;;soterrani;;08032 ;Barcelona;;;;41,421342431;2,153561417;OK
+211;Carrer del Santuari, 27;Carrer del Santuari;27;;;;08032 ;Barcelona;;41,4203461;2,1512601;41,420260728;2,151185668;OK
+212;Carrer La Plana, 10, 1r 2a;Carrer La Plana;10;;1;;08032 ;Barcelona;;;;41,430576708;2,158330856;OK
+213;Carrer Mare de Déu de Lorda, 2-10;Carrer Mare de Déu de Lorda;2-10;;;;08033 ;Barcelona;;;;0,0;0,0;KO
+214;Carrer Capità Arenas, 22-24, 1r 4a;Carrer Capità Arenas;22-24;;1;;08034 ;Barcelona;;;;41,390593031;2,126157899;OK
+215;Carrer Eduardo Conde, 22-42 (C.C. Sarrià);Carrer Eduardo Conde;22-42;;;Centre Cívic Sarrià;08034 ;Barcelona;;;;41,393875192;2,121169095;OK
+216;Carrer Sagrat Cor, 10, 1r 3a;Carrer Sagrat Cor;10;;1;;08034 ;Barcelona;;;;41,400269725;2,119655779;OK
+217;Plaça Eusebi Güell 6-7, Edifici Vèrtex (UPC) planta 0;Plaça Eusebi Güell;6-7;;;Edifici Vèrtex;08034 ;Barcelona;;;;0,0;0,0;KO
+218;Avinguda del Jordà, 27 (Centre Cívic Casa Groga);Avinguda del Jordà;27;;;Centre Cívic Casa Groga;08035 ;Barcelona;;;;41,396739796;2,120919282;OK
+219;Carrer Besòs, 17;Carrer Besòs;17;;;;08035 ;Barcelona;;;;0,0;0,0;KO
+220;Carrer de Jericó, 15, baixos 4a;Carrer de Jericó;15;;;;08035 ;Barcelona;;;;41,421063459;2,138225281;OK
+221;Avinguda Diagonal, 441;Avinguda Diagonal;441;;;;08036 ;Barcelona;;41,3942314;2,1504462;41,393772291;2,149611891;OK
+222;Carrer Comte d'Urgell, 249;Carrer Comte d'Urgell;249;;;;08036 ;Barcelona;;;;41,391313436;2,146123032;OK
+223;Carrer Comte d'Urgell, 272, entl. 2a;Carrer Comte d'Urgell;272;;entl;;08036 ;Barcelona;;;;41,39131828;2,146652517;OK
+224;Carrer Còrsega, 195, 5è 3a;Carrer Còrsega;195;;5;;08036 ;Barcelona;;;;0,0;0,0;KO
+225;Carrer Mallorca, 198, pral. 2a;Carrer Mallorca;198;;pral;;08036 ;Barcelona;;;;41,390172777;2,157884706;OK
+226;Carrer Muntaner 159 Principal 2n;Carrer Muntaner;159;;pral;;08036 ;Barcelona;;;;41,39128958;2,153045276;OK
+227;Carrer Sant Germà, 5, 1r 2a;Carrer Sant Germà;5;;1;;08036 ;Barcelona;;;;41,372346931;2,146457409;OK
+228;Avinguda Diagonal, 440, 4t 1a;Avinguda Diagonal;440;;4;;08037 ;Barcelona;;;;41,397093967;2,160873059;OK
+229;Carrer Bailen, 175;Carrer Bailen;175;;;;08037 ;Barcelona;;;;41,400750829;2,165299283;OK
+230;Carrer Bailèn, 175 (Parròquia de Corpus Christi);Carrer Bailèn;175;;;Parròquia de Corpus Christi;08037 ;Barcelona;;;;0,0;0,0;KO
+231;Carrer de Roger de Llúria, 155;Carrer de Roger de Llúria;155;;;;08037 ;Barcelona;;41,3973716;2,1632713;41,3973716;2,1632713;KO
+232;Carrer Mallorca, 283;Carrer Mallorca;283;;;;08037 ;Barcelona;;;;41,395627476;2,164751273;OK
+233;Carrer Provença, 301, baixos;Carrer Provença;301;;;;08037 ;Barcelona;;;;0,0;0,0;KO
+234;Carrer Provença, 301, baixos;Carrer Provença;301;;;;08037 ;Barcelona;;;;0,0;0,0;KO
+235;Carrer València, 306, pral. 1a;Carrer València;306;;pral;;08037 ;Barcelona;;;;0,0;0,0;KO
+236;Carrer Alts Forns, 29 D, 1r 2a;Carrer Alts Forns;29 D;;1;;08038 ;Barcelona;;;;41,356844592;2,136094592;OK
+237;Carrer Sant Eloi, 5-7;Carrer Sant Eloi;5-7;;;;08038 ;Barcelona;;;;41,356039605;2,142806801;OK
+238;Carretera del Prat 34, 6è 1a;Carretera del Prat;34;;6;;08038 ;Barcelona;;;;41,360366995;2,134032749;OK
+239;Carrer Anna M. Martínez Sagi, 42, àtic 1a;Carrer Anna M. Martínez Sagi;42;;àtic;;08041 ;Barcelona;;;;0,0;0,0;KO
+240;Carrer de l'Art 92, entl.;Carrer de l'Art;92;;entl;;08041 ;Barcelona;;;;41,419223648;2,174856962;OK
+241;Carrer Antonio Machado, 20, 6è 4a;Carrer Antonio Machado;20;;6;;08042 ;Barcelona;;;;41,443427344;2,168290064;OK
+242;Carrer Selva de Mar, 215, 6è;Carrer Selva de Mar;215;;6;;08080 ;Barcelona;;;;41,416623907;2,198564642;OK
+243;Carrer Àngel Guimerà, 15 (Centre Cívic Joana Barcala);Carrer Àngel Guimerà;15;;;Centre Cívic Joana Barcala;08100 ;Mollet del Vallès;;;;0,0;0,0;KO
+244;Carrer Àngel Guimerà, 15 (Edifici Barcala);Carrer Àngel Guimerà;15;;;Edifici Barcala;08100 ;Mollet del Vallès;;;;0,0;0,0;KO
+245;Carrer Cervantes, 19-23;Carrer Cervantes;19-23;;;;08100 ;Mollet del Vallès;;;;0,0;0,0;KO
+246;Carrer Cervantes, 19-23 (Centre Cívic l'Era);Carrer Cervantes;19-23;;;Centre Cívic l'Era;08100 ;Mollet del Vallès;;;;0,0;0,0;KO
+247;Carrer Garrotxa, 4;Carrer Garrotxa;4;;;;08105 ;Sant Fost de Campsentelles;;;;41,516393542;2,245712372;OK
+248;Carrer Bonavista, 13;Carrer Bonavista;13;;;;08110 ;Montcada i Reixac;;;;41,486429801;2,190477352;OK
+249;Carrer de Núria, 73;Carrer de Núria;73;;;;08110 ;Montcada i Reixac;;41,4827449;2,1625928;41,4827449;2,1625928;KO
+250;Carrer Geranis, s/n (Cenre Cívic Can Cuiàs);Carrer Geranis;s/n;;;Centre Cívic Can Cuiàs;08110 ;Montcada i Reixac;;;;41,463228929;2,169956125;OK
+251;Carrer Sant Antoni, 17-19, 1r 1a;Carrer Sant Antoni;17-19;;1;;08110 ;Montcada i Reixac;;;;41,485006605;2,187036018;OK
+252;Carrer Buenos Aires, 16-18 (Centre Cívic);Carrer Buenos Aires;16-18;;;Centre Cívic;08140 ;Caldes de Montbui;;;;41,631488603;2,166381521;OK
+253;Carrer Joan Miró, 7;Carrer Joan Miró;7;;;;08140 ;Caldes de Montbui;;;;0,0;0,0;KO
+254;Avinguda Catalunya, 96, 2n 3a;Avinguda Catalunya;96;;2;;08150 ;Parets del Vallès;;;;0,0;0,0;KO
+255;Carrer Narcís Montoriol, 79, 2n 3a;Carrer Narcís Montoriol;79;;2;;08170 ;Montornès del Vallès;;;;0,0;0,0;KO
+256;Camí Reial, 56 (Masia de Can Cortés), bústia núm. 10;Camí Reial;56;;;Masia de Can Cortés;08184 ;Palau-Solità i Plegamans;;;;0,0;0,0;KO
+257;Carrer Joan Alcover, 65 - Can Salgot;Carrer Joan Alcover;65;;;Can Salgot;08186 ;Lliçà d'Amunt;;;;0,0;0,0;KO
+258;Carrer Monturiol, 5, entl. 3;Carrer Monturiol;5;;entl;;08191 ;Rubí;;;;0,0;0,0;KO
+259;Carrer Pedraforca, 52;Carrer Pedraforca;52;;;;08191 ;Rubí;;;;0,0;0,0;KO
+260;Avinguda de Pau Casals, 16;Avinguda de Pau Casals;16;;;;08192 ;Sant Quirze del Vallès;;;;0,0;0,0;KO
+261;Carrer Segrià, 18;Carrer Segrià;18;;;;08192 ;Sant Quirze del Vallès;;;;0,0;0,0;KO
+263;Carrer Molí, 2;Carrer Molí;2;;;;08196 ;Les Planes (Sant Cugat del Vallès);;;;0,0;0,0;KO
+264;Carrer Capmany, 4D;Carrer Capmany;4D;;;;08201 ;Sabadell;;;;41,54885343;2,107377099;OK
+265;Carrer Sant Joan, 34;Carrer Sant Joan;34;;;;08202 ;Sabadell;;;;41,547445041;2,109641846;OK
+266;Passeig Gaudí, 31;Passeig Gaudí;31;;;;08203 ;Sabadell;;;;0,0;0,0;KO
+267;Plaça Rogelio Soto, 15;Plaça Rogelio Soto;15;;;;08204 ;Sabadell;;;;0,0;0,0;KO
+268;Carrer Ausiàs March, 92 b, 2n 2a;Carrer Ausiàs March;92 b;;2;;08205 ;Sabadell;;;;0,0;0,0;KO
+269;Carrer Grup Arrahona, 98, local C-D;Carrer Grup Arrahona;98;;;;08205 ;Sabadell;;;;41,539085377;2,088418046;OK
+270;Carrer Latorre, 81, local 1;Carrer Latorre;81;;;;08206 ;Sabadell;;;;41,538566407;2,110238019;OK
+271;Carrer Alcalde Moix, 24;Carrer Alcalde Moix;24;;;;08207 ;Sabadell;;;;41,564606109;2,098581165;OK
+272;Carrer  del Batllevell, 202, 2n 2a;Carrer  del Batllevell;202;;2;;08208 ;Sabadell;;;;41,560394497;2,102777889;OK
+273;Carrer Canonge Joncar, 122 D;Carrer Canonge Joncar;122 D;;;;08208 ;Sabadell;;;;41,558236811;2,103886929;OK
+274;Carrer Ribot i Serra, 44, baixos 2;Carrer Ribot i Serra;44;;;;08208 ;Sabadell;;;;41,555475868;2,109579044;OK
+275;Avinguda de la Generalitat, 31, baixos;Avinguda de la Generalitat;31;;;;08210 ;Barberà del Vallès;;;;0,0;0,0;KO
+276;Carrer Nemesi Valls 35, 2n (Aula de la Dona);Carrer Nemesi Valls;35;;2;;08210 ;Barberà del Vallès;;;;0,0;0,0;KO
+277;Carrer Sant Pere, s/n  (Centre Cívic i Cultural);Carrer Sant Pere;s/n;;;Centre Cívic i Cultural;08213 ;Polinyà;;;;41,555783959;2,157035041;OK
+278;Avinguda de la Plata, 21, 2n D;Avinguda de la Plata;21;;2;;08214 ;Badia;;;;41,511046004;2,114327239;OK
+279;Carrer de l'Hoquei, 161;Carrer de l'Hoquei;161;;;;0822 ;Terrassa;;41,5713755;2,0294435;41,572655421;2,030529937;OK
+280;Carrer Blasco Garay, 34, baixos;Carrer Blasco Garay;34;;;;08221 ;Terrassa;;;;41,559640458;2,006094655;OK
+281;Carrer Nou de Sant Pere, 36;Carrer Nou de Sant Pere;36;;;;08221 ;Terrassa;;;;41,565377253;2,013667777;OK
+282;Carrer Nou de Sant Pere, 36;Carrer Nou de Sant Pere;36;;;;08221 ;Terrassa;;;;41,565377253;2,013667777;OK
+283;Carrer Nou de Sant Pere, 36;Carrer Nou de Sant Pere;36;;;;08221 ;Terrassa;;;;41,565377253;2,013667777;OK
+284;Avinguda de Barcelona, 180 (Centre Cívic Montserrat Roig);Avinguda de Barcelona;180;;;Centre Cívic Montserrat Roig;08222 ;Terrassa;;;;41,564634582;2,027209753;OK
+285;Carrer de Pau Marsal, 153, 5è 1a;Carrer de Pau Marsal;153;;5;;08222 ;Terrassa;;;;41,560865908;2,027025116;OK
+286;Carretera Montcada, 30, 1r 1a;Carretera Montcada;30;;1;;08223 ;Terrassa;;;;41,55703727;2,008369559;OK
+287;Plaça Can Palet, 1 (Centre Cívic Alcalde Morera);Plaça Can Palet;1;;;Centre Cívic Alcalde Morera;08223 ;Terrassa;;;;0,0;0,0;KO
+288;Avinguda Àngel Sallent, 55 (Centre Cívic M. Aurèlia Capmany);Avinguda Àngel Sallent;55;;;Centre Cívic Maria Aurèlia Capmany;08224 ;Terrassa;;;;0,0;0,0;KO
+289;Carrer de l'infant Martí, 51, 1r;Carrer de l'infant Martí;51;;1;;08224 ;Terrassa;;;;0,0;0,0;KO
+290;Carrer Galileu, 119 baixos;Carrer Galileu;119;;;;08224 ;Terrassa;;;;41,560141841;2,005369635;OK
+291;Carrer Joan d'Àustria, 11 (Casal Cívic Can Boada);Carrer Joan d'Àustria;11;;;Casal Cívic Can Boada;08225 ;Terrassa;;;;0,0;0,0;KO
+292;Passeig 22 de juliol, 337 (Casal del Barri de Sant Pere);Passeig 22 de juliol;337;;;Casal del Barri de Sant Pere;08225 ;Terrassa;;;;41,570192193;2,011848443;OK
+293;Carrer Gerona, 205, 2n 2a;Carrer Gerona;205;;2;;08226 ;Terrassa;;;;41,576020527;2,022682678;OK
+294;Plaça Immaculada s/n;Plaça Immaculada;s/n;;;;08226 ;Terrassa;;;;0,0;0,0;KO
+295;Carrer Joan XVIII, 44-46;Carrer Joan XVIII;44-46;;;;08227 ;Terrassa;;;;0,0;0,0;KO
+296;Carrer Iglesies, 27;Carrer Iglesies;27;;;;08228 ;Les Fonts (St. Quirze del Vallès);;;;0,0;0,0;KO
+297;Carrer Amèrica, 35;Carrer Amèrica;35;;;;08228 ;Terrassa;;;;0,0;0,0;KO
+298;Plaça Pere Aldavert, 4;Plaça Pere Aldavert;4;;;;08230 ;Matadepera;;;;0,0;0,0;KO
+299;Carrer Pintor Casas, s/n;Carrer Pintor Casas;s/n;;;;08232 ;Viladecavalls;;;;41,558731167;1,984355995;OK
+300;Carrer General Prim, 2 bis, baixos;Carrer General Prim;2 bis;;;;08240 ;Manresa;;;;41,730819846;1,820370404;OK
+301;Carrer Oleguer Miró, 36, baixos;Carrer Oleguer Miró;36;;;;08240 ;Manresa;;;;0,0;0,0;KO
+302;Carrer Sant Bertomeu, 50;Carrer Sant Bertomeu;50;;;;08240 ;Manresa;;;;0,0;0,0;KO
+303;Carrer de la Canal, 6, 1r;Carrer de la Canal;6;;1;;08241 ;Manresa;;;;41,724434855;1,825518403;OK
+304;Plaça de l'Hospital, 7, baixos;Plaça de l'Hospital;7;;;;08241 ;Manresa;;;;0,0;0,0;KO
+305;Carrer Callús, s/n (Casal de l'Esperança);Carrer Callús;s/n;;;Casal de l'Esperança;08242 ;Manresa;;;;0,0;0,0;KO
+306;Carrer Mossèn Serapi Ferrer, 25-27;Carrer Mossèn Serapi Ferrer;25-27;;;;08242 ;Manresa;;;;0,0;0,0;KO
+307;Carretera Santpedor, 153, 2n;Carretera Santpedor;153;;2;;08242 ;Manresa;;;;41,737800993;1,832483675;OK
+310;Carrer Sant Cristòfol, 44-46;Carrer Sant Cristòfol;44-46;;;;08243 ;Manresa;;;;0,0;0,0;KO
+311;Carrer Tarragona, 15;Carrer Tarragona;15;;;;08260 ;Súria;;;;0,0;0,0;KO
+312;Carrer Jacint Verdaguer, 12;Carrer Jacint Verdaguer;12;;;;08262 ;Callús;;;;0,0;0,0;KO
+313;Carrer Ubac, 45;Carrer Ubac;45;;;;08270 ;Navarcles;;;;41,750039411;1,89874704;OK
+314;Carrer Jacint Verdaguer, 100, baixos;Carrer Jacint Verdaguer;100;;;;08272 ;Sant Fruitós de Bages;;;;0,0;0,0;KO
+315;Carrer Major, 86 (La Rosaleda);Carrer Major;86;;;La Rosaleda;08272 ;Sant Fruitós de Bages;;41,7452065;1,8600372;41,7452065;1,8600372;KO
+316;Carrer Barcelona, 15;Carrer Barcelona;15;;;;08273 ;Santa Maria d'Oló;;;;0,0;0,0;KO
+317;Pas Nou, s/n (Centre Social l'Ateneu);Pas Nou;s/n;;;Centre Social l'Ateneu;08274 ;Sant Feliu Sasserra;;;;0,0;0,0;KO
+318;Plaça Major, s/n;Plaça Major;s/n;;;;08275 ;Calders;;41,78932745;1,992012786;41,78932745;1,992012786;KO
+319;Carrer Montserrat, 6;Carrer Montserrat;6;;;;08275 ;Monistrol de Calders;;;;41,761422401;2,016031608;OK
+320;Carrer del Carme, 23;Carrer del Carme;23;;;;08280 ;Calaf;;41,7340056;1,5108466;41,733356675;1,51026792;OK
+321;Cal Palà, s/n;Cal Palà;s/n;;;;08281 ;La Molsosa;;;;0,0;0,0;KO
+322;Avinguda del Parc Tecnològic, 3 (Centre d'empreses de Noves Tecnologies);Avinguda del Parc Tecnològic;3;;;Centre d'empreses de Noves Tecnologies;08290 ;Cerdanyola del Vallès;;;;0,0;0,0;KO
+323;Carrer de les Vinyes, 11 C;Carrer de les Vinyes;11 C;;;;08290 ;Cerdanyola del Vallès;;41,4879152;2,1395861;41,4879152;2,1395861;KO
+324;Carrer Indústria, 12;Carrer Indústria;12;;;;08290 ;Cerdanyola del Vallès;;;;0,0;0,0;KO
+325;Carrer Oreneta, 10;Carrer Oreneta;10;;;;08290 ;Cerdanyola del Vallès;;;;0,0;0,0;KO
+326;Carrer Sant Jordi, 2-4;Carrer Sant Jordi;2-4;;;;08291 ;Ripollet;;;;41,497553682;2,159921804;OK
+327;Rambla de Sant Jordi, 2-4 (Centre Cultural);Rambla de Sant Jordi;2-4;;;Centre Cultural;08291 ;Ripollet;;;;41,497553682;2,159921804;OK
+328;Rambla de Sant Jordi, 2;Rambla de Sant Jordi;2;;;;08291 ;Ripollet;;41,4945812;2,168389;41,498262597;2,158385211;OK
+329;Carrer Hospital, 39, baixos;Carrer Hospital;39;;;;08292 ;Esparraguera;;;;41,537868519;1,868830985;OK
+330;Carrer Gran, s/n (Tèxtil Montserrat);Carrer Gran;s/n;;;;08295 ;Sant Vicenç de Castellet;;;;41,667173755;1,862858646;OK
+331;Carrer Pedraforca, 2 baixos;Carrer Pedraforca;2;;;;08295 ;Sant Vicenç de Castellet;;;;41,667800903;1,864633045;OK
+332;Carrer Joaquim Borràs, s/n (Ajuntament);Carrer Joaquim Borràs;s/n;;;Ajuntament;08296 ;Castellbell i el Vilar;;;;0,0;0,0;KO
+333;Carrer de l'Arquebisbe Creus, 1 esc. E, 3r 2a;Carrer de l'Arquebisbe Creus;1;E;3;;08301 ;Mataró;;;;41,542393536;2,448559012;OK
+334;Carrer de Santa Teresa, 32 1r 2a;Carrer de Santa Teresa;32;;1;;08302 ;Mataró;;;;41,538077262;2,443846545;OK
+335;Carrer Juan Sebastián Elcano, 6;Carrer Juan Sebastián Elcano;6;;;;08302 ;Mataró;;;;0,0;0,0;KO
+336;Carrer Santisidro, 18 4rt 2n;Carrer Santisidro;18;;4;;08302 ;Mataró;;;;0,0;0,0;KO
+337;Carrer Via Europa 98, 2, oficina 2;Carrer Via Europa;98;;2;;08303 ;Mataró;;;;41,544233849;2,432630986;OK
+338;Carrer de Pablo Picasso, 38, baixos;Carrer de Pablo Picasso;38;;;;08304 ;Mataró;;;;41,54900783;2,449965016;OK
+339;Carrer Cuba, 18, local 17;Carrer Cuba;18;;;;08320 ;El Masnou;;;;41,47959243;2,32005666;OK
+340;Carrer de Santa Teresa, 49;Carrer de Santa Teresa;49;;;;08328 ;Alella;;41,4941623;2,2935092;41,493784939;2,292749584;OK
+341;Riera de Sant Pere, 147;Riera de Sant Pere;147;;;;08338 ;Premià de Dalt;;41,5067094;2,3446115;41,50706935;2,343365529;OK
+342;Carrer de Sant Joan, 36, porta 4;Carrer de Sant Joan;36;;;;08340 ;Vilassar de Mar;;;;41,503140858;2,392248971;OK
+343;Carrer Sant Josep, 112, baixos, dreta;Carrer Sant Josep;112;;;;08340 ;Vilassar de Mar;;;;41,505382067;2,395105449;OK
+344;Riera Pare Fita 31, 2n pis  (Edif. Calisay);Riera Pare Fita; 31;;2;Edifici Calisay;08350 ;Arenys de Mar;;;;41,58326422;2,548055938;OK
+345;Carrer de les Flors 17 Apartat de Correus, 95 (Masia Can Borrell);Carrer de les Flors;17;;;Masia Can Borrell;08358 ;Arenys de Munt;;;;41,610335773;2,539115874;OK
+346;Carrer de l'Eixample, 141;Carrer de l'Eixample;141;;;;08358 ;Arenys de Munt;;;;41,613155967;2,537283048;OK
+347;Plaça Manén, s/n;Plaça Manén;s/n;;;;08360 ;Canet de Mar;;;;0,0;0,0;KO
+348;Carrer de l'Esglèsia, 173. Casa Calella;Carrer de l'Esglèsia;173;;;Casa Calella;08370 ;Calella;;41,6170128;2,6687545;41,6170128;2,6687545;KO
+349;Carrer Sant Pere, 19 C;Carrer Sant Pere;19 C;;;;08380 ;Malgrat de Mar;;;;41,643961849;2,7452836;OK
+350;Carrer Sindicat s/n (Masia Can Florencia);Carrer Sindicat;s/n;;;Masia Can Florencia;08389 ;Palafolls;;;;41,667002555;2,750082811;OK
+351;Camí de Can Caralt, 21-23;Camí de Can Caralt;21-23;;;;08392 ;Sant Andreu de Llavaneres;;;;0,0;0,0;KO
+352;Carrer d'Ignasi Mas Morell, 12, 1r 2a;Carrer d'Ignasi Mas Morell;12;;1;;08395 ;Sant Pol de Mar;;;;41,600819463;2,620580448;OK
+353;Carrer de Barcelona, 35, entl.;Carrer de Barcelona;35;;entl;;08397 ;Pineda de Mar;;;;41,623950328;2,688051413;OK
+354;Carrer Àngel Guimerà, 10, planta baixa;Carrer Àngel Guimerà;10;;;;08400 ;Granollers;;;;0,0;0,0;KO
+355;Carrer de Sant Roc, 11, 1r;Carrer de Sant Roc;11;;1;;08401 ;Granollers;;;;41,608375653;2,288340033;OK
+356;Carrer Joan Prim, 58, 2n 1a;Carrer Joan Prim;58;;2;;08402 ;Granollers;;;;41,611328776;2,289760873;OK
+357;Carrer Pau Carbó, 45 1è 2a;Carrer Pau Carbó;45;;1;;08403 ;Granollers;;;;0,0;0,0;KO
+358;Passeig de Santa Quitèria, 23;Passeig de Santa Quitèria;23;;;;08410 ;Vilanova del Vallès;;41,557191;2,3043333;41,557191;2,3043333;KO
+359;Passeig del Centenari, s/n  (Centre Cultural despatx 3);Passeig del Centenari;s/n;;;Centre Cultural;08410 ;Vilanova del Vallès;;;;0,0;0,0;KO
+360;Carrer Anselm Clavé, 7, 1r 1a;Carrer Anselm Clavé;7;;1;;08450 ;Llinars del Vallès;;;;0,0;0,0;KO
+361;Carrer de Joaquim Blume, 30, 2n 1a;Carrer de Joaquim Blume;30;;2;;08450 ;Llinars del Vallès;;;;0,0;0,0;KO
+362;Carrer Torregrossa, 37 (Can Muntanyola);Carrer Torregrossa;37;;;Can Muntanyola;08480 ;L'Ametlla del Vallès;;;;0,0;0,0;KO
+363;Carrer del Vallès, 4;Carrer del Vallès;4;;;;08495 ;Fogars de la Selva;;;;0,0;0,0;KO
+364;"Carretera BV-5122, km 5 ""Museu de Fogars"" s/n";Carretera BV-5122;km 5;;;Museu de Fogars;08495 ;Fogars de la Selva;;;;0,0;0,0;KO
+365;Carrer Pare Coll, 7, 2n 2a;Carrer Pare Coll;7;;2;;08500 ;Vic;;;;41,932664575;2,253821109;OK
+366;Carrer Sant Pere, 9 (Hotel d'Entitats);Carrer Sant Pere;9;;;Hotel d'Entitats;08500 ;Vic;;;;41,927429994;2,252154695;OK
+367;Carrer Santa Joanquima de Vedruna, 6 (Escola Escorial);Carrer Santa Joanquima de Vedruna;6;;;Escola Escorial;08500 ;Vic;;;;0,0;0,0;KO
+368;Rambla Josep Tarradellas, 5, 5è 1a;Rambla Josep Tarradellas;5;;5;;08500 ;Vic;;;;41,923994382;2,251925474;OK
+370;Carrer de Ramon Martí, 42, 1a Planta;Carrer de Ramon Martí;42;;1;;08510 ;Roda de Ter;;;;0,0;0,0;KO
+371;Carrer del Puig, 7;Carrer del Puig;7;;;;08512 ;Sant Hipòlit de Voltregà;;42,0114606;2,2415235;42,0114606;2,2415235;KO
+372;Carrer Hospital, n20;Carrer Hospital;20;;;;08512 ;Sant Hipòlit de Voltregà;;;;0,0;0,0;KO
+373;Carrer Major, 10;Carrer Major;10;;;;08513 ;Prats de Lluçanès;;42,0100897;2,0303196;42,0100897;2,0303196;KO
+374;Carrer Consell, 65, 1-1;Carrer Consell;65;;1;;08530 ;La Garriga;;;;41,681291323;2,284758987;OK
+375;Carrer de Sant Francesc, 54 D;Carrer de Sant Francesc;54 D;;;;08530 ;La Garriga;;41,683383;2,2850831;41,684389183;2,284793832;OK
+376;Avinguda Bell Esguard, 12;Avinguda Bell Esguard;12;;;;08540 ;Centelles;;;;41,804118754;2,221502636;OK
+377;Plaça Josep Espona (Espai cultural de Balenyà);Plaça Josep Espona;;;;Espai cultural de Balenyà;08550 ;Balenyà;;;;0,0;0,0;KO
+378;Carrer de la Font, 10, 3r;Carrer de la Font;10;;3;;08551 ;Tona;;;;41,850043708;2,229161516;OK
+379;Carrer Joan Maragall, 1;Carrer Joan Maragall;1;;;;08552 ;Taradell;;;;41,874454754;2,283444638;OK
+380;Carrer Cal Xic, 28;Carrer Cal Xic;28;;;;08560 ;Manlleu;;42,0028301;2,2950094;42,002539357;2,295103547;OK
+381;Carrer Pintor Guàrdia, 8-10;Carrer Pintor Guàrdia;8-10;;;;08560 ;Manlleu;;;;0,0;0,0;KO
+382;Plaça Nova, 11, 3r Aula 306;Plaça Nova;11;;3;;08570 ;Torelló;;;;0,0;0,0;KO
+383;Carrer Gràcia, 2;Carrer Gràcia;2;;;;08573 ;Orís;;;;41,242417307;1,534947236;OK
+384;Plaça Emili Juncadella, 1-2;Plaça Emili Juncadella;1-2;;;;08585 ;Montesquiu;;;;0,0;0,0;KO
+385;Carrer Barcelona, 49, 3r;Carrer Barcelona;49;;3;;08600 ;Berga;;;;42,099184429;1,847061895;OK
+386;Plaça del Mercat, 1;Plaça del Mercat;1;;;;08612 ;Montmajor;;42,0177071;1,7353648;42,0177071;1,7353648;KO
+387;Passatge Mossèn Joan Aymerich, 1;Passatge Mossèn Joan Aymerich;1;;;;08613 ;Vilada;;;;0,0;0,0;KO
+388;Carrer Barcelona, 55;Carrer Barcelona;55;;;;08620 ;Sant Vicenç dels Horts;;;;41,394309858;2,010360938;OK
+389;Parc de Can Sostres, s/n;Parc de Can Sostres;s/n;;;;08629 ;Torrelles de Llobregat;;;;0,0;0,0;KO
+390;Plaça de les Escoles Velles s/n (Hotel d'entitats);Plaça de les Escoles Velles;1;;;Hotel d'Entitats;08630 ;Abrera;;;;0,0;0,0;KO
+391;Plaça de les Escoles Velles, 1 (Hotel d'entitats);Plaça de les Escoles Velles;1;;;Hotel d'Entitats;08630 ;Abrera;;;;0,0;0,0;KO
+392;Plaça de les Escoles, 1 (Hotel d'Entitats);Plaça de les Escoles;1;;;Hotel d'Entitats;08630 ;Abrera;;;;0,0;0,0;KO
+393;Carrer Pau Costes, 33 baixos;Carrer Pau Costes;33;;;;08635 ;Sant Esteve Sesrovires;;;;41,493165297;1,872666099;OK
+394;Carrer Mallorca, 6;Carrer Mallorca;6;;;;08640 ;Olesa de Montserrat;;;;41,543900175;1,89218603;OK
+395;Carrer Metge Carreras, 80, entl. 3a;Carrer Metge Carreras;80;;entl;;08640 ;Olesa de Montserrat;;;;41,540739357;1,894228074;OK
+396;Carrer Sant Víctor, 20, baixos;Carrer Sant Víctor;20;;;;08650 ;Sallent;;;;0,0;0,0;KO
+397;Carrer Torres Amat, 37;Carrer Torres Amat;37;;;;08650 ;Sallent;;;;41,824231573;1,894054664;OK
+398;Carrer Alcalde Sena, 27;Carrer Alcalde Sena;27;;;;08670 ;Navàs;;;;0,0;0,0;KO
+399;Carretera de Castellet, 17, 2n;Carretera de Castellet;17;;2;;08670 ;Navàs;;;;0,0;0,0;KO
+400;Avinguda del Baix Llobregat, 50;Avinguda del Baix Llobregat;50;;;;08690 ;Santa Coloma de Cervelló;;;;0,0;0,0;KO
+401;Carrer Escoles, s/n;Carrer Escoles;s/n;;;;08698 ;Cercs;;;;42,146379431;1,861491257;OK
+402;Carrer Clos, 42, 2n;Carrer Clos;42;;2;;08700 ;Igualada;;;;41,579896085;1,618229678;OK
+403;Carrer de les Orquídies, 7;Carrer de les Orquídies;7;;;;08700 ;Igualada;;;;41,580585888;1,631402566;OK
+404;Carretera de Manresa, 131;Carretera de Manresa;131;;;;08700 ;Igualada;;41,5838677;1,6152431;41,587018479;1,620170053;OK
+405;Carrer de la Font, 43;Carrer de la Font;43;;;;08711 ;Òdena;;;;0,0;0,0;KO
+406;Carrer Bisbe Morgades, 35-37, 2n 2a;Carrer Bisbe Morgades;35-37;;2;;08720 ;Vilafranca del Penedès;;;;0,0;0,0;KO
+407;Carrer Pere el Gran, 32;Carrer Pere el Gran;32;;;;08720 ;Vilafranca del Penedès;;;;0,0;0,0;KO
+408;Carrer Sant Pere, 71;Carrer Sant Pere;71;;;;08720 ;Vilafranca del Penedès;;;;0,0;0,0;KO
+409;Carrer Plaja, 9;Carrer Plaja;9;;;;08733 ;El Pla del Penedès;;;;0,0;0,0;KO
+410;Carrer Mare de Deu de Foix, 2;Carrer Mare de Deu de Foix;2;;;;08737 ;Torrelles de Foix;;;;41,389358595;1,567889561;OK
+411;Carrer de la Font, 5-7;Carrer de la Font;5-7;;;;08740 ;Sant Andreu de la Barca;;41,4478157;1,9728012;41,447659748;1,973361616;OK
+413;Carrer Doctor Barraquer, 35, 1r 1a;Carrer Doctor Barraquer;35;;1;;08750 ;Molins de Rei;;;;41,41024986;2,015654801;OK
+414;Carrer Jacint Verdaguer, 48;Carrer Jacint Verdaguer;48;;;;08750 ;Molins de Rei;;;;41,414979763;2,018751389;OK
+415;Carrer Llibertat, 12, baixos;Carrer Llibertat;12;;;;08754 ;El Papiol;;;;41,437846502;2,010341107;OK
+416;Carrer de Sant Joan, 2;Carrer de Sant Joan;2;;;;08755 ;Castellbisbal;;;;41,474815667;1,981039961;OK
+417;Carrer Jaume Balmes, 3;Carrer Jaume Balmes;3;;;;08757 ;Corbera de Llobregat;;41,4748288;1,9812917;41,416663157;1,928331494;OK
+418;Carrer Jaume Balmes, 3;Carrer Jaume Balmes;3;;;;08757 ;Corbera de Llobregat;;;;41,416663157;1,928331494;OK
+419;Carrer Jaume Balmes, 3, baixos;Carrer Jaume Balmes;3;;;;08757 ;Corbera de Llobregat;;;;41,416663157;1,928331494;OK
+420;Plaça de les Cultures s/n (Centre Cultural 1a planta);Plaça de les Cultures;s/n;;1;Centre Cultural;08760 ;Martorell;;;;0,0;0,0;KO
+421;Camí dels Paperers, 6, 2n 4a;Camí dels Paperers;6;;2;;08770 ;Sant Sadurní d'Anoia;;;;0,0;0,0;KO
+422;Carrer de Marc Mir, 15;Carrer de Marc Mir;15;;;;08770 ;Sant Sadurní d'Anoia;;;;0,0;0,0;KO
+423;Carrer de Marc Mir, 15 (Casal d'Entitats);Carrer de Marc Mir;15;;;Casal d'Entitats;08770 ;Sant Sadurní d'Anoia;;41,4241445;1,789244;41,4241445;1,789244;KO
+424;Plaça de l'Església, 4;Plaça de l'Església;4;;;;08777 ;Sant Quintí de Mediona;;;;0,0;0,0;KO
+425;Carrer San Antoni s/n (Antiga Fàbrica del Cartró);Carrer San Antoni;s/n;;;Antiga Fàbrica del Cartró;08783 ;Masquefa;;;;41,502055698;1,811111939;OK
+426;Avinguda d'Andalusia, 53;Avinguda d'Andalusia;53;;;;08788 ;Vilanova del Camí;;;;41,573554325;1,647646555;OK
+427;Carrer Raval, 1;Carrer Raval;1;;;;08795 ;Olesa de Bonesvalls;;41,5734223;1,6482561;41,35282129;1,850504742;OK
+428;Avinguda de la Diputació, 7;Avinguda de la Diputació;7;;;;08796 ;Pacs del Penedès;;;;0,0;0,0;KO
+429;Avinguda Vilafranca, 26;Avinguda Vilafranca;26;;;;08800 ;Vilanova i la Geltrú;;41,3607084;1,6690404;41,234297387;1,726882022;OK
+430;Carrer de l'Àncora, 3;Carrer de l'Àncora;3;;;;08800 ;Vilanova i la Geltrú;;;;0,0;0,0;KO
+431;Carrer de Sant Sebastià, 11, despatx núm. 2 -Espai el Toc-;Carrer de Sant Sebastià;11;;;Espai el Toc;08800 ;Vilanova i la Geltrú;;;;41,223755333;1,726617927;OK
+432;Carrer Manel Tomàs, 14-16, 2n 1a;Carrer Manel Tomàs;14-16;;2;;08800 ;Vilanova i la Geltrú;;;;0,0;0,0;KO
+433;Carrer Pare Garí, 1 (espai infantil La Baldufa);Carrer Pare Garí;1;;;espai infantil La Baldufa;08800 ;Vilanova i la Geltrú;;;;0,0;0,0;KO
+434;Carrer Sant Pau 13, despatx 4;Carrer Sant Pau;13;;;;08800 ;Vilanova i la Geltrú;;;;41,225963615;1,725222986;OK
+435;Passeig Marítim, 73;Passeig Marítim;73;;;;08800 ;Vilanova i la Geltrú;;;;0,0;0,0;KO
+436;Carrer de Pere IV, 201 (Apartat de Correus núm. 14);Carrer de Pere IV;201;;;;08810 ;Sant Pere de Ribes;;41,2164355;1,7312402;41,229117085;1,74298522;OK
+437;Carrer Federico García Lorca, 108, baixos;Carrer Federico García Lorca;108;;;;08812 ;Les Roquetes (St. Pere de Ribes);;;;0,0;0,0;KO
+438;Carrer Dolores Ibarruri, 45 (Centre Cívic Sant Jordi-Ribera Baixa);Carrer Dolores Ibarruri;45;;;Centre Cívic Sant Jordi-Ribera Baixa;08820 ;El Prat de Llobregat;;;;41,320783573;2,08584066;OK
+440;Carrer de Mallorca, 30;Carrer de Mallorca;30;;;;08830 ;Sant Boi de Llobregat;;;;41,342093325;2,0433527;OK
+441;Carrer Miquel, 2 (Casal del Barri de Marianao);Carrer Miquel;2;;;Casal del Barri de Marianao;08830 ;Sant Boi de Llobregat;;;;41,345825869;2,031939656;OK
+442;Carrer Pau Casals, 7;Carrer Pau Casals;7;;;;08830 ;Sant Boi de Llobregat;;41,3399377;2,0399431;41,357078207;2,030302485;OK
+443;Carrer Riereta, 4;Carrer Riereta;4;;;;08830 ;Sant Boi de Llobregat;;;;41,346848944;2,042358477;OK
+444;Avinguda Antoni Gaudí, 26, 1r 2a;Avinguda Antoni Gaudí;26;;1;;08840 ;Viladecans;;41,3564312;2,0304161;41,3564312;2,0304161;KO
+445;Avinguda Doctor Fleming, 6B 2º 2ª;Avinguda Doctor Fleming;6B;;2;;08840 ;Viladecans;;;;41,309614412;2,011951797;OK
+446;Passeig de Sant Ramon, s/n (Casal Aud. Pablo Picasso);Passeig de Sant Ramon;s/n;;;Casal Aud. Pablo Picasso;08840 ;Viladecans;;;;0,0;0,0;KO
+447;Plaça Constitución, 4;Plaça Constitución;4;;;;08840 ;Viladecans;;;;0,0;0,0;KO
+448;Carrer Ausiàs March, 2, baixos;Carrer Ausiàs March;2;;;;08850 ;Gavà;;;;0,0;0,0;KO
+449;Carrer Joaquim Folguera, 25;Carrer Joaquim Folguera;25;;;;08850 ;Gavà;;;;41,300537111;2,002999137;OK
+450;Rambla Joaquim Vayreda, 31, planta 5;Rambla Joaquim Vayreda;31;;5;Casal Sant Jordi;08850 ;Gavà;;;;41,304472392;2,00864498;OK
+451;Rambla Joaquim Vayreda, 31;Rambla Joaquim Vayreda;31;;;;08850 ;Gavà;;;;41,304472392;2,00864498;OK
+452;Rambla joaquim Vayreda, 31, 5è B (Casal Sant Jordi);Rambla joaquim Vayreda;31;;5;Casal Sant Jordi;08850 ;Gavà;;;;41,304472392;2,00864498;OK
+453;Carrer Major, 14 (Cal Pere Vell);Carrer Major;14;;;Cal Pere Vell;08859 ;Begues;;;;41,330872051;1,922300465;OK
+454;Carrer Jaume I, 34, local;Carrer Jaume I;34;;;;08860 ;Castelldefels;;;;41,286506912;1,977989808;OK
+455;Rambla Blas Infante, 10;Rambla Blas Infante;10;;;;08860 ;Castelldefels;;;;41,287512548;1,977962125;OK
+456;Rambla Blas Infante, 15 (Can Vinader);Rambla Blas Infante;15;;;Can Vinader;08860 ;Castelldefels;;;;41,287479252;1,977323518;OK
+457;Plaça Catalunya, s/n (Centre Cívic del Poble Sec);Plaça Catalunya;s/n;;;Centre Cívic del Poble Sec;08870 ;Sitges;;;;0,0;0,0;KO
+458;Carrer Joan Roig i Piera, 1;Carrer Joan Roig i Piera;1;;;;08880 ;Cubelles;;;;41,207686579;1,672585509;OK
+459;Carrer Joan Roig i Piera, 3-5, despatx 4;Carrer Joan Roig i Piera;3-5;;;;08880 ;Cubelles;;;;41,207652873;1,67260306;OK
+460;Plaça de Balmes, 4;Plaça de Balmes;4;;;;08880 ;Cubelles;;;;0,0;0,0;KO
+461;Carrer Ebre, 18, baixos;Carrer Ebre;18;;;;08901 ;L'Hospitalet de Llobregat;;;;41,364905377;2,108160717;OK
+462;Carrer Galvany, 15-17;Carrer Galvany;15-17;;;;08901 ;L'Hospitalet de Llobregat;;41,3634608;2,1073047;41,36408754;2,1091677;OK
+463;Carrer Sant Joan, 33;Carrer Sant Joan;33;;;;08901 ;L'Hospitalet de Llobregat;;41,3622481;2,0983288;41,36210397;2,097036512;OK
+464;Rambla de la Marina, 232;Rambla de la Marina;232;;;;08901 ;L'Hospitalet de Llobregat;;41,355567;2,1046761;41,352764096;2,112660969;OK
+465;Avinguda Carmen Amaya, 47, baixos;Avinguda Carmen Amaya;47;;;;08902 ;L'Hospitalet de Llobregat;;;;41,356145773;2,116914573;OK
+466;Carrer Anselm Clavé, 24;Carrer Anselm Clavé;24;;;;08902 ;L'Hospitalet de Llobregat;;41,3657165;2,1268034;41,36605549;2,12657106;OK
+467;Carrer Santa Eulàlia, 240, 1r 4a;Carrer Santa Eulàlia;240;;1;;08902 ;L'Hospitalet de Llobregat;;;;0,0;0,0;KO
+468;Ronda de la Torrassa, 105, 4t;Ronda de la Torrassa;105;;4;;08903 ;L'Hospitalet de Llobregat;;;;41,368658414;2,125475295;OK
+469;Carrer Progrés, 40, 3r;Carrer Progrés;40;;3;;08904 ;L'Hospitalet de Llobregat;;;;0,0;0,0;KO
+470;Carrer dels Pins, 35-37, baixos;Carrer dels Pins;35-37;;;;08905 ;L'Hospitalet de Llobregat;;;;41,368971282;2,110485516;OK
+471;Avinguda de Can Serra, s/n (Casa de la Reconciliació);Avinguda de Can Serra;s/n;;;Casa de la Reconciliació;08906 ;L'Hospitalet de Llobregat;;;;41,364748406;2,098320812;OK
+472;Carrer Peñíscola, 14, baixos;Carrer Peñíscola;14;;;;08906 ;L'Hospitalet de Llobregat;;;;0,0;0,0;KO
+473;Passeig dels Cirerers, 52-58;Passeig dels Cirerers;52-58;;;;08906 ;L'Hospitalet de Llobregat;;;;41,364627193;2,08748275;OK
+474;Avinguda Mare de Déu de Bellvitge, 80-88, àtic 1a;Avinguda Mare de Déu de Bellvitge;80-88;;àtic;;08907 ;L'Hospitalet de Llobregat;;;;0,0;0,0;KO
+475;Carrer de Nostra Senyora de Bellvitge, 190;Carrer de Nostra Senyora de Bellvitge;190;;;;08907 ;L'Hospitalet de Llobregat;;;;41,350744873;2,105731275;OK
+476;Gran Via de l'Hospitalet, 37 local;Gran Via de l'Hospitalet;37;;;;08908 ;L'Hospitalet de Llobregat;;;;41,361635219;2,132177409;OK
+477;Carrer Jaume Solà, s/n (Casal de Mares i Pares);Carrer Jaume Solà;s/n;;;Casal de Mares i Pares;08911 ;Badalona;;;;41,449952686;2,24435021;OK
+478;Carrer Magatzem, 37, baixos;Carrer Magatzem;37;;;;08911 ;Badalona;;;;41,448536833;2,251052102;OK
+479;Carrer Rector, 45-47, baixos;Carrer Rector;45-47;;;;08911 ;Badalona;;;;41,449515305;2,242769216;OK
+480;Carrer Riera de Canyadó, 3;Carrer Riera de Canyadó;3;;;;08911 ;Badalona;;;;41,455017339;2,257659765;OK
+481;Carrer Coll i Pujol, 38, baixos;Carrer Coll i Pujol;38;;;;08912 ;Badalona;;;;41,449234193;2,241790541;OK
+482;Carrer Marina, 63, baixos;Carrer Marina;63;;;;08912 ;Badalona;;;;41,448102047;2,24528271;OK
+483;Carrer Europa, 14, entl. 1a;Carrer Europa;14;;entl;;08913 ;Badalona;;;;41,438657155;2,217712607;OK
+484;Carrer Cardenal Cisneros, 1, 4t;Carrer Cardenal Cisneros;1;;4;;08914 ;Badalona;;;;41,439106506;2,226052336;OK
+485;Carrer Victor Balaguer, s/n (Edifici El Triangle);Carrer Victor Balaguer;s/n;;;Edifici El Triangle;08914 ;Badalona;;;;41,444950449;2,222160063;OK
+487;Plaça Rafael Campanal, s/n (Centre Cívic);Plaça Rafael Campanal;s/n;;;Centre Cívic;08914 ;Badalona;;;;0,0;0,0;KO
+488;Avinguda Bac de Roda, 42-48;Avinguda Bac de Roda;42-48;;;;08915 ;Badalona;;;;41,462247013;2,247481452;OK
+489;Avinguda Sabadell, s/n;Avinguda Sabadell;s/n;;;;08915 ;Badalona;;;;41,465208252;2,251476493;OK
+490;Carrer Eliseu Meifrèn, 40-42;Carrer Eliseu Meifrèn;40-42;;;;08915 ;Badalona;;;;0,0;0,0;KO
+491;Mar, 55;Mar;55;;;;08915 ;Badalona;;41,4650273;2,2530515;41,448767779;2,248697628;OK
+492;Avinguda Martí Pujol, 625 entl. 3a;Avinguda Martí Pujol;625;;entl;;08917 ;Badalona;;;;0,0;0,0;KO
+493;Carrer de la Ciència , 15;Carrer de la Ciència ;15;;;;08917 ;Badalona;;41,4581838;2,236054;41,4581838;2,236054;KO
+494;Carrer Olivera de Sistrells,  77 2n;Carrer Olivera de Sistrells; 77;;2;;08917 ;Badalona;;;;41,447974773;2,22720822;OK
+495;Rambla de Sant Joan, 59-77 (Can Cabanyes);Rambla de Sant Joan;59-77;;;Centre Cívic Can Cabanyes;08917 ;Badalona;;41,4513311;2,23308;41,448492624;2,235147585;OK
+496;Rambla de Sant Joan, 59-77 (Centre Cívic Can Cabanyes);Rambla de Sant Joan;59-77;;;Centre Cívic Can Cabanyes;08917 ;Badalona;;;;41,448492624;2,235147585;OK
+497;Avinguda Maresme, 156-166;Avinguda Maresme;156-166;;;;08918 ;Badalona;;41,4303727;2,2323197;41,435065149;2,226556855;OK
+498;Carrer Càceres, 34-36;Carrer Càceres;34-36;;;;08918 ;Badalona;;;;0,0;0,0;KO
+499;Carrer Covadonga 2-4, baixos;Carrer Covadonga;2-4;;;;08918 ;Badalona;;;;41,435052863;2,221084441;OK
+501;Carrer Francisco Moragas, 23;Carrer Francisco Moragas;23;;;;08921 ;Santa Coloma de Gramenet;;;;41,448992535;2,208642408;OK
+502;Carrer Lluís Companys, 9;Carrer Lluís Companys;9;;;;08921 ;Santa Coloma de Gramenet;;;;0,0;0,0;KO
+503;Carrer Marina, 5-7, àtic 2a, esc. A;Carrer Marina;5-7;A;àtic;;08921 ;Santa Coloma de Gramenet;;;;41,452185701;2,21133736;OK
+504;Carrer Nàpols, 41;Carrer Nàpols;41;;;;08921 ;Santa Coloma de Gramenet;;;;0,0;0,0;KO
+505;Carrer President Companys, 9, baixos (Centre Cívic Riu);Carrer President Companys;9;;;Centre Cívic Riu;08921 ;Santa Coloma de Gramenet;;;;41,451523684;2,205686112;OK
+506;Carrer Safareig, 1-3;Carrer Safareig;1-3;;;;08921 ;Santa Coloma de Gramenet;;;;41,453875853;2,205878981;OK
+507;Carrer Sant Jeroni, 1-3;Carrer Sant Jeroni;1-3;;;;08921 ;Santa Coloma de Gramenet;;;;41,453868984;2,206673943;OK
+508;Ptge. de la Pedrera, 8-1, baixos;Passatge de la Pedrera;8-1;;;;08921 ;Santa Coloma de Gramenet;;;;41,455319038;2,21446652;OK
+509;Carrer Milà i Fontanals, 14-16;Carrer Milà i Fontanals;14-16;;;;08922 ;Santa Coloma de Gramenet;;;;41,45121078;2,21845531;OK
+510;Avinguda Generalitat, 222;Avinguda Generalitat;222;;;;08923 ;Santa Coloma de Gramenet;;;;41,435532185;2,212264888;OK
+511;Carrer de Sant Carles, 14;Carrer de Sant Carles;14;;;;08923 ;Santa Coloma de Gramenet;;41,4527286;2,2070363;41,452728956;2,207070773;OK
+512;Carrer Laredo, 10, 1r  2a;Carrer Laredo;10;;1;;08924 ;Santa Coloma de Gramenet;;;;41,461778469;2,209566787;OK
+513;Carrer Milton, 28, baixos;Carrer Milton;28;;;;08924 ;Santa Coloma de Gramenet;;;;41,46233595;2,202761217;OK
+514;Carrer Pep Ventura, 1 (Casal de Les Oliveres);Carrer Pep Ventura;1;;;Casal de Les Oliveres;08924 ;Santa Coloma de Gramenet;;;;41,459734565;2,19650248;OK
+515;Carrer Església, 8;Carrer Església;8;;;;08930 ;Sant Adrià de Besòs;;;;0,0;0,0;KO
+516;Carrer Mar, 12-14;Carrer Mar;12-14;;;;08930 ;Sant Adrià de Besòs;;;;0,0;0,0;KO
+517;Carrer Olímpic, 5;Carrer Olímpic;5;;;;08930 ;Sant Adrià de Besòs;;41,42737495;2,220491327;41,42737495;2,220491327;KO
+518;Carrer Ponent, s/n;Carrer Ponent;s/n;;;;08930 ;Sant Adrià de Besòs;;41,4191468;2,2196137;41,4191468;2,2196137;KO
+519;Carrer Ponent, s/n (Casal Cívic La Mina);Carrer Ponent;s/n;;;Casal Cívic La Mina;08930 ;Sant Adrià de Besòs;;;;0,0;0,0;KO
+520;Ctra. de Mataró, 59, baixos;Ctra. de Mataró;59;;;;08930 ;Sant Adrià de Besòs;;;;0,0;0,0;KO
+521;Carrer Cornellà Modern, 19;Carrer Cornellà Modern;19;;;;08940 ;Cornellà de Llobregat;;;;41,361322078;2,073593441;OK
+522;Carrer de Mossèn Jacint Verdaguer, 16;Carrer de Mossèn Jacint Verdaguer;16;;;;08940 ;Cornellà de Llobregat;;;;0,0;0,0;KO
+523;Carrer Eduard Gilbert, 29;Carrer Eduard Gilbert;29;;;;08940 ;Cornellà de Llobregat;;;;41,352985816;2,072587805;OK
+524;Carrer Gerdera, s/n (Casal Cívic Sant Ildefons);Carrer Gerdera;s/n;;;Casal Cívic Sant Ildefons;08940 ;Cornellà de Llobregat;;;;41,360780776;2,084279246;OK
+525;Carrer Mossèn Andreu, 14-19, 4a pl. (Centre Cultural Joan N. Garcia-Nieto);Carrer Mossèn Andreu;14-19;;4;Centre Cultural Joan N. Garcia-Nieto;08940 ;Cornellà de Llobregat;;;;0,0;0,0;KO
+526;Plaça Gandesa, s/n (Centre Cívic Fontsanta);Plaça Gandesa;s/n;;;Centre Cívic Fontsanta;08940 ;Cornellà de Llobregat;;;;0,0;0,0;KO
+527;Avinguda Isidre Martí, 46, 1r 2a;Avinguda Isidre Martí;46;;1;;08950 ;Esplugues de Llobregat;;;;41,37616181;2,083261738;OK
+528;Carrer Bruc, 40, baixos;Carrer Bruc;40;;;;08950 ;Esplugues de Llobregat;;;;41,370565736;2,084778803;OK
+529;Carrer Josep Argemi, 48-52, 1r;Carrer Josep Argemi;48-52;;1;;08950 ;Esplugues de Llobregat;;;;41,373615752;2,079539223;OK
+530;Carrer Verge de la Mercè, 1;Carrer Verge de la Mercè;1;;;;08950 ;Esplugues de Llobregat;;;;41,372298519;2,09756088;OK
+531;Carrer Nord, 84;Carrer Nord;84;;;;08950 ;Esplugues de Llobregat;;;;41,380912481;2,082761641;OK
+532;Carrer Salvador Espriu, s/n;Carrer Salvador Espriu;s/n;;;;08960 ;Sant Just Desvern;;;;41,380842462;2,070433589;OK
+533;Carrer de l'Orfeó Català, 1, baixos 1a;Carrer de l'Orfeó Català;1;;;;08970 ;Sant Joan Despí;;;;0,0;0,0;KO
+534;Carrer Montjuïc, 7, 1r 1a;Carrer Montjuïc;7;;1;;08970 ;Sant Joan Despí;;;;0,0;0,0;KO
+535;Carrer Sant Miquel, 5;Carrer Sant Miquel;5;;;;08970 ;Sant Joan Despí;;;;0,0;0,0;KO
+536;Passatge Sant Miquel, s/n;Passatge Sant Miquel;s/n;;;;08970 ;Sant Joan Despí;;;;0,0;0,0;KO
+538;Carrer Frederica Montseny, 23-25;Carrer Frederica Montseny;23-25;;;;08980 ;Sant Feliu de Llobregat;;;;41,386302987;2,056160702;OK
+539;Carrer Rectoria, 4-6 (Can Ricard);Carrer Rectoria;4-6;;;Can Ricard;08980 ;Sant Feliu de Llobregat;;;;41,381708099;2,04521042;OK
+540;Carrer Vidal i Ribas, 23-25, 1r despatx 2 (Ateneu Santfeliuenc);Carrer Vidal i Ribas;23-25;;1;Ateneu Santfeliuenc;08980 ;Sant Feliu de Llobregat;;;;41,382051864;2,046961906;OK
+541;Carrer Joan Maragall, 19, 3r 2a;Carrer Joan Maragall;19;;3;;17001 ;Girona;;;;41,979793437;2,821694204;OK
+542;Plaça de Mela Mutermilch, 1, 3r 1a;Plaça de Mela Mutermilch;1;;3;;17001 ;Girona;;;;0,0;0,0;KO
+543;Carrer de la Cort Reial, 7;Carrer de la Cort Reial;7;;;;17002 ;Girona;;41,984598;2,8249556;41,984595143;2,824966052;OK
+544;Plaça Sant Pere,2,2n.2ª;Plaça Sant Pere;2;;2;;17002 ;Girona;;;;0,0;0,0;KO
+545;Carrer Manel Bonmatí Romaguera, 2 (Pimec);Carrer Manel Bonmatí Romaguera;2;;;Pimec;17003 ;Girona;;;;0,0;0,0;KO
+546;Carrer Narcís Blanch, 13, 1r 2a;Carrer Narcís Blanch;13;;1;;17003 ;Girona;;;;0,0;0,0;KO
+547;Carrer Albareda, 3-5 (Centre Social Barri Vell);Carrer Albareda;3-5;;;Centre Social Barri Vell;17004 ;Girona;;;;41,982431174;2,824215068;OK
+548;Carrer Camp de la Plana, 13;Carrer Camp de la Plana;13;;;;17004 ;Girona;;;;41,973015396;2,842096608;OK
+549;Carrer La Plana, 13;Carrer La Plana;13;;;;17004 ;Girona;;;;41,973015396;2,842096608;OK
+550;Plaça de l'Assumpció, 27;Plaça de l'Assumpció;27;;;;17005 ;Girona;;41,9750448;2,8115403;41,9750448;2,8115403;KO
+551;Plaça de l'Assumpció, 27 (Centre Cívic Sant Narcís);Plaça de l'Assumpció;27;;;Centre Cívic Sant Narcís;17005 ;Girona;;;;0,0;0,0;KO
+552;Carrer de les Agudes, 69, 5è 5a;Carrer de les Agudes;69;;5;;17006 ;Girona;;;;41,971054597;2,80229122;OK
+553;Carrer del Pont Major, 67-73;Carrer del Pont Major;67-73;;;;17007 ;Girona;;42,0122032;2,825423;42,012203469;2,825422779;OK
+554;Carrer Onze de Setembre, 31 A;Carrer Onze de Setembre;31 A;;;;17007 ;Girona;;41,8838907;2,8795975;41,996874462;2,828839146;OK
+555;Rambla Xavier Cugat,15-12;Rambla Xavier Cugat;5-12;;;;17007 ;Girona;;;;41,992464892;2,812540757;OK
+556;Carrer de Santa Eugènia, 146 (Centre Cívic Can Ninetes, GR Santa Eugènia);Carrer de Santa Eugènia;146;;;Centre Cívic Can Ninetes;17080 ;Girona;;;;0,0;0,0;KO
+557;Carrer Pompeu Fabra, 20;Carrer Pompeu Fabra;20;;;;17100 ;La Bisbal d'Empordà;;41,9624887;3,0396163;41,962971752;3,039197001;OK
+558;Carrer del Migdia, 13;Carrer del Migdia;13;;;;17142 ;Verges;;42,0609801;3,0447126;42,061047655;3,043937021;OK
+559;Carrer Montseny, 4 (Biblioteca);Carrer Montseny;4;;;Biblioteca;17150 ;Sant Gregori;;;;41,990348635;2,76063833;OK
+560;Carrer Ramadà, 14;Carrer Ramadà;14;;;;17180 ;Vic;;;;41,928255928;2,253494847;OK
+561;Carrer Perelló, 114;Carrer Perelló;114;;;;17180 ;Vilablareix;;41,9488086;2,7928162;41,9488086;2,7928162;KO
+562;Carrer Veïnat Puigorrat, 5;Carrer Veïnat Puigorrat;5;;;;17181 ;Aiguaviva;;;;0,0;0,0;KO
+563;Carrer Àngel Guimerà, 81, 2n 4a;Carrer Àngel Guimerà;81;;2;;17190 ;Salt;;;;0,0;0,0;KO
+564;Carrer Àngel Guimerà, 99;Carrer Àngel Guimerà;99;;;;17190 ;Salt;;;;0,0;0,0;KO
+565;Carrer de Sant Dionisi, 42;Carrer de Sant Dionisi;42;;;;17190 ;Salt;;;;41,976216031;2,790862541;OK
+566;Carrer Major, 73, 1r 1a;Carrer Major;73;;1;;17190 ;Salt;;;;41,975912875;2,797311406;OK
+567;Carrer Països Catalans, 132, 1r 3a;Carrer Països Catalans;132;;1;;17190 ;Salt;;;;41,972550413;2,790536161;OK
+568;Carrer Sant Antoni, 1 (Comacross);Carrer Sant Antoni;1;;;Comacross;17190 ;Salt;;;;41,977519295;2,796185258;OK
+569;Carrer Sant Joan, 22;Carrer Sant Joan;22;;;;17190 ;Salt;;;;41,975508412;2,783464987;OK
+570;Carrer Torres i Bages, 14, 4t 3a;Carrer Torres i Bages;14;;4;;17190 ;Salt;;;;41,973277179;2,789960041;OK
+571;Carrer Botines, 26, baixos;Carrer Botines;26;;;;17200 ;Palafrugell;;;;41,915704035;3,164261435;OK
+572;Carrer Botines, 26, baixos;Carrer Botines;26;;;;17200 ;Palafrugell;;;;41,915704035;3,164261435;OK
+573;Carrer Còrdova, 43;Carrer Còrdova;43;;;;17220 ;Sant Feliu de Guíxols;;;;0,0;0,0;KO
+574;Plaça Salvador Espriu, s/n, despatx 1;Plaça Salvador Espriu;s/n;;;;17220 ;Sant Feliu de Guíxols;;;;0,0;0,0;KO
+575;Passeig Romeu, 16;Passeig Romeu;16;;;;17240 ;Llagostera;;;;41,824251303;2,891136301;OK
+576;Carrer del Tren, 49;Carrer del Tren;49;;;;17242 ;Quart;;41,9387781;2,8380249;41,938715373;2,838087718;OK
+577;Carretera Provincial, 116, 2n 5a;Carretera Provincial;116;;2;;17244 ;Cassà de la Selva;;;;41,889841595;2,87382228;OK
+578;Passeig de Pompeu Fabra, 2 (SIAD);Passeig de Pompeu Fabra;2;;;;17246 ;Santa Cristina d'Aro;;;;41,811641487;2,997837882;OK
+579;Carrer de les Escoles, 2 (Centre Cívic de Castell-Platja d'Aro);Carrer de les Escoles;2;;;Centre Cívic de Castell-Platja d'Aro;17250 ;Castell-Platja d'Aro;;;;41,818164944;3,064058946;OK
+580;Carrer de Puicerver, 17, 1r 1a;Carrer de Puicerver;17;;1;;17251 ;Calonge;;;;0,0;0,0;KO
+581;Carrer Major, 31 (Casa Pastors);Carrer Major;31;;;Casa Pastors;17257 ;Torroella de Montgrí;;;;42,03986504;3,125982387;OK
+582;Carrer Santa Caterina , 53, 1 D;Carrer Santa Caterina ;53;;1;;17257 ;Torroella de Montgrí;;;;42,044930176;3,126679849;OK
+583;Carrer de l'Or, 2, bis;Carrer de l'Or;2bis;;;;17300 ;Blanes;;;;41,67446887;2,793137069;OK
+584;Carrer Horta d'en Creus, 40,3r.2ª;Carrer Horta d'en Creus;40;;3;;17300 ;Blanes;;;;41,676009774;2,787823783;OK
+585;Carrer Maragda, 6;Carrer Maragda;6;;;;17300 ;Blanes;;41,6705138;2,7851653;41,670521417;2,785092987;OK
+586;Mas Carolet, 40-42, 2n 1a;Mas Carolet;40-42;;2;;17300 ;Blanes;;;;0,0;0,0;KO
+587;Plaça Argentina,5;Plaça Argentina;5;;;;17300 ;Blanes;;;;0,0;0,0;KO
+588;Carrer de Joan Alcover, 7, bústia 15;Carrer de Joan Alcover;7;;;;17310 ;Lloret de Mar;;;;41,709173473;2,859406537;OK
+589;Carrer de la Vila, 6;Carrer de la Vila;6;;;;17310 ;Lloret de Mar;;41,6998899;2,8489925;41,699406333;2,847480558;OK
+590;Carrer Francesc Pi i Maragall, 2-4, 1r. 3a;Carrer Francesc Pi i Maragall;2-4;;1;;17310 ;Lloret de Mar;;;;41,700577176;2,833678032;OK
+591;Carrer Francesc Torrescassana, 3;Carrer Francesc Torrescassana;3;;;;17310 ;Lloret de Mar;;;;41,707780393;2,840291929;OK
+592;Carrer Mar Cantàbric, 58, Bústia 4;Carrer Mar Cantàbric;58;;;;17310 ;Lloret de Mar;;;;0,0;0,0;KO
+593;Avinguda Verge de Montserrat, 20;Avinguda Verge de Montserrat;20;;;;17400 ;Breda;;41,7490685;2,5624332;41,749202969;2,562711596;OK
+594;Carrer Camprodon, 57, 1r;Carrer Camprodon;57;;1;;17401 ;Arbúcies;;;;0,0;0,0;KO
+595;Plaça de l'Ajuntament, 17;Plaça de l'Ajuntament;17;;;;17403 ;Sant Hilari Sacalm;;41,8778339;2,5077158;41,8778339;2,5077158;KO
+596;Plaça Gravalosa,4;Plaça Gravalosa;4;;;;17403 ;Sant Hilari Sacalm;;;;0,0;0,0;KO
+597;Carrer Sant Sebastià, 91;Carrer Sant Sebastià;91;;;;17430 ;Santa Coloma de Farners;;41,8613608;2,665829;41,861037319;2,667286005;OK
+598;Carrer Raval, 45;Carrer Raval;45;;;;17450 ;Hostalric;;;;41,745751446;2,641342784;OK
+599;Carrer Costa Brava, 26;Carrer Costa Brava;26;;;;17455 ;Caldes de Malavella;;;;41,840460396;2,809381209;OK
+600;Carrer Sant Jordi, 7;Carrer Sant Jordi;7;;;;17457 ;Riudellots de la Selva;;41,8968563;2,801921;41,896851978;2,802839941;OK
+601;Carretera de Juià, 46;Carretera de Juià;46;;;;17460 ;Celrà;;42,0264736;2,8843958;42,026918511;2,873896585;OK
+602;Travessera Pou Vila, 8;Travessera Pou Vila;8;;;;17460 ;Celrà;;;;42,024685469;2,88026244;OK
+603;Carrer Precessó, 0;Carrer Precessó;;;;;17462 ;Madremanya;;;;0,0;0,0;KO
+604;Plaça de l'Abadia, 1;Plaça de l'Abadia;1;;;;17485 ;Vila-sacra;;42,2660406;3,0180324;42,2660406;3,0180324;KO
+605;Carrer Sant Sebastià, 39;Carrer Sant Sebastià;39;;;;17493 ;Vilajuïga;;;;0,0;0,0;KO
+606;Carrer Méndez Núñez, 2 (Centre Cívic);Carrer Méndez Núñez;2;;;Centre Cívic;17497 ;Portbou;;;;0,0;0,0;KO
+608;Carrer Major, 51;Carrer Major;51;;;;17520 ;Puigcerdà;;42,4334268;1,9258295;42,408295952;1,942582789;OK
+609;Plaça Clavé, s/n, 2n local 5;Plaça Clavé;s/n;;2;;17530 ;Campdevànol;;;;0,0;0,0;KO
+610;Carrer Eres, 6 (Apartat de Correus 41 );Carrer Eres;6;;;;17534 ;Ribes de Freser;;;;42,306424884;2,169182209;OK
+611;Plaça de l'Ajuntament, 1;Plaça de l'Ajuntament;1;;;;17535 ;Planoles;;;;0,0;0,0;KO
+613;Carrer Pere III, 93;Carrer Pere III;93;;;;17600 ;Figueres;;;;42,2605893;2,953632681;OK
+614;Carrer Puig Rom, 36, baixos;Carrer Puig Rom;36;;;;17600 ;Figueres;;;;42,274402919;2,959890451;OK
+615;Plaça Remei Bosch, s/n;Plaça Remei Bosch;s/n;;;;17600 ;Figueres;;;;0,0;0,0;KO
+616;Carrer Bisbe Lorenzana, 15 (Institut Municipal de Promoció de la Ciutat);Carrer Bisbe Lorenzana;15;;;Institut Municipal de Promoció de la Ciutat;17800 ;Olot;;;;42,18134591;2,491112953;OK
+617;Carrer Proa, 16, 1r A;Carrer Proa;16;;1;;17800 ;Olot;;;;42,182428779;2,492338945;OK
+618;Carrer Barcelona, 52 B, 1r 2a;Carrer Barcelona;52 B;;1;;17820 ;Banyoles;;;;42,114697934;2,772347589;OK
+619;Carrer Barcelona, 52, baixos (Centre Cívic);Carrer Barcelona;52;;;Centre Cívic;17820 ;Banyoles;;;;42,114795057;2,772441072;OK
+620;Carrer Barcelona, 52, baixos (Centre Cívic);Carrer Barcelona;52;;;Centre Cívic;17820 ;Banyoles;;;;42,114795057;2,772441072;OK
+621;Carrer Maria Montessori, s/n;Carrer Maria Montessori;s/n;;;;17820 ;Banyoles;;;;42,111210349;2,768078357;OK
+622;Plaça Santa Maria, 6;Plaça Santa Maria;6;;;;17820 ;Banyoles;;;;0,0;0,0;KO
+623;Carrer Pau Casals, 16;Carrer Pau Casals;16;;;;17833 ;Fontcoberta;;42,1459026;2,7710138;42,146377831;2,771219102;OK
+624;Plaça de la Renaixença, s/n (Centre Cívic);Plaça de la Renaixença;s/n;;;Centre Cívic;17841 ;Sarrià de Ter;;;;0,0;0,0;KO
+625;Carrer Mare de Déu del Prat, 1, 5e 2a;Carrer Mare de Déu del Prat;1;;5;;17860 ;Sant Joan de les Abadesses;;;;0,0;0,0;KO
+626;Carrer Cabanya del Pinter, s/n;Carrer Cabanya del Pinter;s/n;;;;17861 ;Ogassa;;;;0,0;0,0;KO
+627;Plaça d'Espanya, 2 (Ajuntament de Camprodon);Plaça d'Espanya;2;;;Ajuntament de Camprodon;17867 ;Camprodon;;;;0,0;0,0;KO
+628;Carrer Alfons II, 14, 2n;Carrer Alfons II;14;;2;;25001 ;Lleida;;;;41,611698022;0,632855507;OK
+629;Plaça Joan XXIII, 1;Plaça Joan XXIII;1;;;;25001 ;Lleida;;;;0,0;0,0;KO
+630;Avinguda Blondel, 34, 6-1;Avinguda Blondel;34;;6;;25002 ;Lleida;;;;41,613682486;0,625714036;OK
+631;Carrer de la Palma, 39;Carrer de la Palma;39;;;;25002 ;Lleida;;41,6140396;0,6230032;41,614831777;0,621745729;OK
+632;Carrer de la Palma, 6-10 (Centre de Recursos Juvenils  PALMA);Carrer de la Palma;6-10;;;Centre de Recursos Juvenils PALMA;25002 ;Lleida;;;;41,614831777;0,621745729;OK
+633;Carrer La Palma, 6-10;Carrer La Palma;6-10;;;;25002 ;Lleida;;;;41,614831777;0,621745729;OK
+634;Plaça Cervantes, 8, bxs.;Plaça Cervantes;8;;;;25002 ;Lleida;;;;0,0;0,0;KO
+635;Plaça Sant Llorenç, 1;Plaça Sant Llorenç;1;;;;25002 ;Lleida;;;;0,0;0,0;KO
+636;Carrer d'Artur Mor, 1;Carrer d'Artur Mor;1;;;;25003 ;Lleida;;;;41,612728013;0,611406794;OK
+637;Carrer Mercè, 1;Carrer Mercè;1;;;;25003 ;Lleida;;;;0,0;0,0;KO
+638;Carrer Pius XII, s/n (Centre Cívic);Carrer Pius XII;s/n;;;Centre Cívic;25003 ;Lleida;;;;41,615853755;0,616516707;OK
+639;Passeig Pius XII, 6, baixos;Passeig Pius XII;6;;;;25003 ;Lleida;;;;41,614993516;0,614145315;OK
+640;Avinguda Prat de la Riba, 94;Avinguda Prat de la Riba;94;;;;25004 ;Lleida;;41,6250449;0,631761;41,62433364;0,631652028;OK
+641;Avinguda de Sant Pere, 3;Avinguda de Sant Pere;3;;;;25005 ;Lleida;;41,6371632;0,6285715;41,635845022;0,62908519;OK
+642;Carrer Pintor Xavier Gose, 17, 1r 3a;Carrer Pintor Xavier Gose;17;;1;;25005 ;Lleida;;;;41,62454113;0,633366507;OK
+643;Carrer Sant Pere Claver, 5 (Local Social);Carrer Sant Pere Claver;5;;;Local Social;25005 ;Lleida;;;;41,626105747;0,638113146;OK
+644;Carrer Terrassa, 1;Carrer Terrassa;1;;;;25005 ;Lleida;;;;41,62754745;0,626627417;OK
+645;Carrer Terrassa, 1 (Centre Cívic);Carrer Terrassa;1;;;Centre Cívic;25005 ;Lleida;;;;41,62754745;0,626627417;OK
+646;Gran Passeig de Ronda, 64, 8è 4a;Gran Passeig de Ronda;64;;8;;25006 ;Lleida;;;;41,615714371;0,614214861;OK
+647;Passeig de Ronda, 115;Passeig de Ronda;115;;;;25006 ;Lleida;;;;41,678535221;0,476506408;OK
+648;Carrer Democràcia, 19;Carrer Democràcia;19;;;;25007 ;Lleida;;41,5282059;0,522191;41,5282059;0,522191;KO
+649;Rambla Ferran, 23, 2n 2a;Rambla Ferran;23;;2;;25007 ;Lleida;;;;41,618164642;0,630228699;OK
+650;Plaça de Sant Joan, 18, 3r A;Plaça de Sant Joan;18;;3;;25007 ;Lleida;;;;0,0;0,0;KO
+651;Rambla Ferran, 32 (COELL);Rambla Ferran;32;;;COELL;25007 ;Lleida;;;;41,618394541;0,630998234;OK
+652;Rambla Ferran, 32;Rambla Ferran;32;;;;25007 ;Lleida;;;;41,618394541;0,630998234;OK
+653;Carrer Prat de la Riba, 33, 3r 2a;Carrer Prat de la Riba;33;;3;;25008 ;Lleida;;;;41,620901923;0,623334401;OK
+654;Plaça de la Constitució,  s/n;Plaça de la Constitució; s/n;;;;25008 ;Lleida;;;;0,0;0,0;KO
+655;Partida Grenyana, 15;Partida Grenyana;15;;;;2510 ;Lleida;;;;0,0;0,0;KO
+656;Carrer d'Albert Lleó, 2;Carrer d'Albert Lleó;2;;;;25100 ;Almacelles;;41,7317932;0,4377019;41,731339096;0,436897807;OK
+657;Carrer Major, 36;Carrer Major;36;;;;25100 ;Almacelles;;41,7304219;0,4383318;41,73055854;0,438208559;OK
+658;Carrer Farraginals, s/n;Carrer Farraginals;s/n;;;;25110 ;Alpicat;;;;41,666291954;0,557768131;OK
+659;Carrer Ferrer i Reginals, s/n;Carrer Ferrer i Reginals;s/n;;;;25110 ;Alpicat;;;;0,0;0,0;KO
+660;Carrer Doctor Sarrat, 7;Carrer Doctor Sarrat;7;;;;25112 ;Gimenells;;;;41,6528397;0,389686362;OK
+661;Plaça Major, 2;Plaça Major;2;;;;25113 ;Sucs;;;;0,0;0,0;KO
+662;Carrer Pompeu Fabra, s/n;Carrer Pompeu Fabra;s/n;;;;25120 ;Alfarràs;;;;0,0;0,0;KO
+663;Carrer Sant Roc, s/n;Carrer Sant Roc;s/n;;;;25122 ;Ivars de Noguera;;;;41,851852788;0,585522745;OK
+664;Carrer Major, 35;Carrer Major;35;;;;25123 ;Torrefarrera;;41,6731254;0,607067;41,673193926;0,606929764;OK
+665;Carrer Major, 95;Carrer Major;95;;;;25124 ;Rosselló;;41,6970796;0,5951537;41,6970796;0,5951537;KO
+666;Plaça del Pati, 10;Plaça del Pati;10;;;;25125 ;Alguaire;;;;0,0;0,0;KO
+667;Carrer Trullets (Escorxador);Carrer Trullets;;;;Escorxador;25126 ;Almenar;;;;41,7946824;0,568623477;OK
+668;Carrer Escoles, 10;Carrer Escoles;10;;;;25132 ;Benavent de Segrià;;;;41,695903424;0,633859901;OK
+669;Carrer Esglèsia, 9;Carrer Esglèsia;9;;;;25133 ;Vilanova de Segrià;;41,7120311;0,6196165;41,71194102;0,619832025;OK
+670;Carrer de la Barceloneta, 5;Carrer de la Barceloneta;5;;;;25134 ;La Portella;;41,7398231;0,6404039;41,739898917;0,640093936;OK
+671;Carrer de la Sèquia, s/n;Carrer de la Sèquia;s/n;;;;25135 ;Albesa;;41,750572;0,6589209;41,750688948;0,658650599;OK
+672;Plaça Major, 1;Plaça Major;1;;;;25136 ;Castelló de Farfanya;;41,8203579;0,727311;41,8203579;0,727311;KO
+673;Carrer de l'Església, 2;Carrer de l'Església;2;;;;25137 ;Corbins;;41,691853;0,6961428;41,691853;0,6961428;KO
+674;Carrer de Lluís Companys, 58;Carrer de Lluís Companys;58;;;;25137 ;Corbins;;;;0,0;0,0;KO
+675;Carrer Balaguer, 12;Carrer Balaguer;12;;;;25138 ;Torrelameu;;;;41,704022093;0,703024995;OK
+676;Carrer Raval, 47;Carrer Raval;47;;;;25139 ;Menàrguens;;;;0,0;0,0;KO
+677;Carrer Germanes Dominiques, 7;Carrer Germanes Dominiques;7;;;;25140 ;Arbeca;;;;41,540246864;0,92428658;OK
+678;Carrer Les Eres, 40;Carrer Les Eres;40;;;;25141 ;Torregrossa;;;;41,579966824;0,830005663;OK
+679;Plaça Canalejas, 1;Plaça Canalejas;1;;;;25141 ;Torregrossa;;;;0,0;0,0;KO
+680;Carrer Domenec Cardenal, 1;Carrer Domenec Cardenal;1;;;;25142 ;Bellvís;;;;0,0;0,0;KO
+681;Carrer 8 de Maig, 26;Carrer 8 de Maig;26;;;;25143 ;El Poal;;;;41,679686813;0,853641598;OK
+682;Carrer Castell, 3;Carrer Castell;3;;;;25150 ;Artesa de Lleida;;;;41,551747762;0,703203424;OK
+683;Carrer Major, 5;Carrer Major;5;;;;25151 ;Aspa;;41,4966277;0,67152;41,496099865;0,671963644;OK
+684;Carrer Oliver, 13;Carrer Oliver;13;;;;25152 ;El Cogul;;;;41,467372538;0,688763128;OK
+685;Carrer Carretera, 8 (Llar Social);Carrer Carretera;8;;;Llar Social;25153 ;Puigverd de Lleida;;;;41,54514359;0,731355368;OK
+686;Passeig Moragues, 21;Passeig Moragues;21;;;;25154 ;Castelldans;;;;41,496391102;0,765468824;OK
+687;Carrer Santiago Rossinyol, 9 (Ajuntament);Carrer Santiago Rossinyol;9;;;Ajuntament;25155 ;L'Albagés;;;;0,0;0,0;KO
+688;Plaça de la Bassa, s/n;Plaça de la Bassa;s/n;;;;25161 ;Alfés;;41,5214916;0,6199063;41,5214916;0,6199063;KO
+689;Plaça Major, 9;Plaça Major;9;;;;25162 ;Alcanó;;41,48136;0,6167005;41,48136;0,6167005;KO
+690;Carrer Les Eres, 27;Carrer Les Eres;27;;;;25163 ;Bellaguarda;;;;41,336952161;0,734812684;OK
+691;Carrer Major, s/n;Carrer Major;s/n;;;;25163 ;El Soleràs;;41,4127475;0,6834146;41,4127475;0,6834146;KO
+692;Travessera Mestre Benet, 2;Travessera Mestre Benet;2;;;;25164 ;Els Torms;;;;41,395011541;0,719863351;OK
+693;Plaça Major, 1;Plaça Major;1;;;;25165 ;Juncosa de les Garrigues;;;;0,0;0,0;KO
+694;Carrer Comandant Mateu Salla, 5, 1r esq.;Carrer Comandant Mateu Salla;5;;1;;25170 ;Torres de Segre;;;;41,535086541;0,514871999;OK
+695;Carrer Doctor Robert, s/n;Carrer Doctor Robert;s/n;;;;25171 ;Albatàrrec;;;;41,573599998;0,607013602;OK
+696;Plaça d'Orient, 3;Plaça d'Orient;3;;;;25172 ;Montoliu de Lleida;;;;0,0;0,0;KO
+697;Carrer Segre, 1, 3r;Carrer Segre;1;;3;;25173 ;Sudanell;;;;41,557013422;0,566491828;OK
+698;Avinguda Garrigues, s/n;Avinguda Garrigues;s/n;;;;25174 ;Sunyer;;;;41,52320675;0,592788694;OK
+699;Carrer Monsenyor Vilaplana, 30;Carrer Monsenyor Vilaplana;30;;;;25175 ;Sarroca de Lleida;;41,4585413;0,5609932;41,458553759;0,56095958;OK
+700;Carrer del Portal, 3;Carrer del Portal;3;;;;25176 ;Torrebesses;;41,4263559;0,5942735;41,426545104;0,594511722;OK
+701;Plaça de la Vila, 33;Plaça de la Vila;33;;;;25177 ;La Granadella;;41,35542715;0,664853421;41,35542715;0,664853421;KO
+702;Carrer Major, 2;Carrer Major;2;;;;25178 ;Almatret;;41,3056421;0,4232577;41,305561908;0,423584029;OK
+703;Carrer Major, 20;Carrer Major;20;;;;25178 ;Bovera;;41,3263456;0,6382952;41,326586943;0,638227078;OK
+704;Carrer del Segrià, 14, 3r 1a;Carrer del Segrià;14;;3;;25180 ;Alcarràs;;;;0,0;0,0;KO
+705;Carrer Sant Llorenç, 10;Carrer Sant Llorenç;10;;;;25181 ;Soses;;;;0,0;0,0;KO
+706;Carrer Joan XXIII, 26;Carrer Joan XXIII;26;;;;25182 ;Aitona;;41,4915629;0,460796;41,491849195;0,459294908;OK
+707;Carrer Mossèn Ferran, 16;Carrer Mossèn Ferran;16;;;;25183 ;Seròs;;;;0,0;0,0;KO
+708;Plaça del Casal, s/n;Plaça del Casal;s/n;;;;25184 ;Massalcoreig;;;;0,0;0,0;KO
+710;Carrer Arrabal, 18;Carrer Arrabal;18;;;;25186 ;Llardecans;;;;41,374345914;0,548250856;OK
+711;Partida Plana Gensana, 45;Partida Plana Gensana;45;;;;25194 ;Lleida;;;;41,590526599;0,582573208;OK
+712;Carrer Gran de Llívia, 58;Carrer Gran de Llívia;58;;;;25195 ;Lleida;;41,6497636;0,641222317;41,6497636;0,641222317;KO
+713;Partida Sot de Fontanet, 25;Partida Sot de Fontanet;25;;;;25197 ;Lleida;;;;41,596903132;0,621319799;OK
+714;Carrer Alcalde Rovira Roure, 80 - Hospital Arnau de Vilanova;Carrer Alcalde Rovira Roure;80;;;Hospital Arnau de Vilanova;25198 ;Lleida;;;;41,625856777;0,612120298;OK
+715;Carrer de Víctor Balaguer 2B, PB;Carrer de Víctor Balaguer;2B;;;;25200 ;Cervera;;;;0,0;0,0;KO
+716;Carrer Duc d'Ahumada, 2;Carrer Duc d'Ahumada;2;;;;25200 ;Cervera;;;;0,0;0,0;KO
+717;Passeig Estació, s/n (Edifici Renfe);Passeig Estació;s/n;;;Edifici Renfe;25200 ;Cervera;;;;0,0;0,0;KO
+718;Carrer de Cervera, 6;Carrer de Cervera;6;;;;25210 ;Guissona;;;;41,78113645;1,289913477;OK
+719;Carrer de la Font, 1;Carrer de la Font;1;;;;25211 ;Massoteres;;41,797529;1,3102455;41,797471424;1,310579654;OK
+720;Carretera de Girona, s/n;Carretera de Girona;s/n;;;;25211 ;Tarroja de Segarra;;;;0,0;0,0;KO
+721;Plaça Major, 1 (local social);Plaça Major;1;;;Local social;25211 ;Torrefeta -  Florejacs;;;;0,0;0,0;KO
+722;Carrer Avall, s/n;Carrer Avall;s/n;;;;25212 ;Hostafrancs;;;;41,736738406;1,243413016;OK
+723;Plaça Major, 1;Plaça Major;1;;;;25213 ;Llindars;;41,60311585;1,30047917;41,60311585;1,30047917;KO
+724;Plaça de la Constitució, 7;Plaça de la Constitució;7;;;;25213 ;Ribera d'Ondara;;;;0,0;0,0;KO
+725;Avinguda del Santuari, 21;Avinguda del Santuari;21;;;;25215 ;Sant Ramon;;41,7263104;1,3698742;41,726313197;1,369476401;OK
+726;Carrer Major, 22;Carrer Major;22;;;;25216 ;Ivorra;;41,7719495;1,3945762;41,772152785;1,394968534;OK
+727;Plaça Catalunya, 5;Plaça Catalunya;5;;;;25220 ;Bell-lloc d'Urgell;;41,63002735;0,781160031;41,63002735;0,781160031;KO
+728;Plaça Sant Martí, 1;Plaça Sant Martí;1;;;;25221 ;Els Alamús;;;;0,0;0,0;KO
+729;Carrer Balmes, 22;Carrer Balmes;22;;;;25222 ;Sidamon;;;;41,629273143;0,830649863;OK
+730;Avinguda Generalitat, 11;Avinguda Generalitat;11;;;;25230 ;Mollerussa;;41,6311881;0,8967468;41,631432586;0,896823638;OK
+731;Avinguda Prat de la Riba, 1;Avinguda Prat de la Riba;1;;;;25230 ;Mollerussa;;;;41,631783767;0,894347131;OK
+732;Carrer Major, 1 - Edifici Can Formiguera;Carrer Major;1;;;Edifici Can Formiguera;25240 ;Linyola;;;;41,710456627;0,904562333;OK
+733;Carrer Mota, 2;Carrer Mota;2;;;;25241 ;Golmés;;;;0,0;0,0;KO
+734;Carrer de Sant Josep, 1, 2n;Carrer de Sant Josep;1;;2;;25243 ;El Palau d'Anglesola;;;;41,651559492;0,880782514;OK
+735;Rambla de la Font, 26;Rambla de la Font;26;;;;25244 ;Fondarella;;41,6350363;0,8745117;41,635099013;0,873668572;OK
+736;Carrer Major, 2, B;Carrer Major;2;;;;25245 ;Vila-sana;;;;41,6627728;0,927102187;OK
+737;Carrer Gaudí,11, 1r;Carrer Gaudí;1;;1;;25250 ;Bellpuig;;;;0,0;0,0;KO
+738;Carrer Nou, 7;Carrer Nou;7;;;;25262 ;Barbens;;41,6783601;1,0143391;41,678273963;1,014243524;OK
+739;Carrer Jaume Ripoll i Vilamajó, 14;Carrer Jaume Ripoll i Vilamajó;14;;;;25263 ;Preixana;;;;41,606824482;1,040126375;OK
+740;Carrer Dr. Gassol, 1;Carrer Dr. Gassol;1;;;;25264 ;Vilanova de Bellpuig;;;;41,61478014;0,961218411;OK
+741;Plaça Major, 1 (bústies);Plaça Major;1;;;;25265 ;Castellnou de Seana;;;;0,0;0,0;KO
+742;Plaça de l'Ajuntament, 1;Plaça de l'Ajuntament;1;;;;25266 ;Belianes;;41,56176825;1,01748664;41,56176825;1,01748664;KO
+743;Plaça Homenatge a la Vellesa, 1;Plaça Homenatge a la Vellesa;1;;;;25266 ;Maldà;;;;0,0;0,0;KO
+744;Passeig Pare Claret, s/n (Casa de Cultura, bústia núm. 24);Passeig Pare Claret;s/n;;;Casa de Cultura;25280 ;Solsona;;;;41,994140137;1,514544917;OK
+745;Plaça Santuari (Ajuntament);Plaça Santuari;;;;Ajuntament;25287 ;Pinós;;;;0,0;0,0;KO
+746;Camí del Baell, s/n;Camí del Baell;s/n;;;;25289 ;Bassella;;;;0,0;0,0;KO
+747;Escola de Freixinet, s/n;Escola de Freixinet;s/n;;;;25290 ;Clariana de Cardener;;;;0,0;0,0;KO
+748;Carrer Sant Pelegrí, 31, 4-1;Carrer Sant Pelegrí;31;;4;;25300 ;Tàrrega;;;;0,0;0,0;KO
+749;Carrer Segle XX, 2, baixos;Carrer Segle XX;2;;;;25300 ;Tàrrega;;;;0,0;0,0;KO
+750;Carrer Talladell, 7-9, baixos;Carrer Talladell;7-9;;;;25300 ;Tàrrega;;;;0,0;0,0;KO
+753;Partida Nova, 8;Partida Nova;8;;;;25300 ;Tàrrega;;;;0,0;0,0;KO
+754;Plaça del Mercadal, 1;Plaça del Mercadal;1;;;;25310 ;Agramunt;;41,7874114;1,1002516;41,7874114;1,1002516;KO
+755;Plaça de l'Esglèsia de Preixens, 1;Plaça de l'Esglèsia de Preixens;1;;;;25316 ;Preixens;;;;0,0;0,0;KO
+756;Plaça de l'Esglèsia, s/n;Plaça de l'Esglèsia;s/n;;;;25316 ;Preixens;;41,79642435;1,012328587;41,79642435;1,012328587;KO
+757;Carrer Major, 97;Carrer Major;97;;;;25320 ;Anglesola;;41,6584177;1,0829955;41,656959965;1,089006152;OK
+758;Carrer del Pintor Marsà, 28;Carrer del Pintor Marsà;28;;;;25330 ;Vilagrassa;;;;0,0;0,0;KO
+759;Passatge La Plana, 6;Passatge La Plana;6;;;;25331 ;Tornabous;;;;41,720643922;1,056105954;OK
+760;Avinguda de Catalunya, 64 baixos;Avinguda de Catalunya;64;;;;25332 ;La Fuliola;;;;41,714323826;1,018294062;OK
+761;Avinguda de Catalunya, 4;Avinguda de Catalunya;4;;;;25334 ;Castellserà;;41,7465567;0,9859422;41,746882037;0,985861018;OK
+762;Carrer Rita Boldú (Edifici Lo Xargall), s/n;Carrer Rita Boldú (Edifici Lo Xargall);s/n;;;;25335 ;Penelles;;;;0,0;0,0;KO
+763;Carrer de les Escoles, s/n;Carrer de les Escoles;s/n;;;;25336 ;Bellmunt d'Urgell;;;;41,773464044;0,95372859;OK
+764;Plaça Major, 1;Plaça Major;1;;;;25337 ;Bellcaire d'Urgell;;41,75935595;0,906213738;41,75935595;0,906213738;KO
+765;Carrer de la Font, 13;Carrer de la Font;13;;;;25340 ;Verdú;;41,6111153;1,1432409;41,6111153;1,1432409;KO
+766;Plaça Major, 1;Plaça Major;1;;;;25341 ;Ciutadilla;;41,56162685;1,139268099;41,56162685;1,139268099;KO
+767;Carrer Bovera, 27;Carrer Bovera;27;;;;25341 ;Guimerà;;;;41,565047873;1,181990301;OK
+768;Carrer Vallbona, 1;Carrer Vallbona;1;;;;25341 ;Nalec;;;;41,559840391;1,114733078;OK
+769;Raval de Tàrrega, s/n;Raval de Tàrrega;s/n;;;;25344 ;Sant Martí de Maldà;;;;0,0;0,0;KO
+770;Carrer de Sant Pere, 5;Carrer de Sant Pere;5;;;;25360 ;El Talladell;;41,6496922;1,1668558;41,649713317;1,166520449;OK
+771;Avinguda de Francesc Macià, 54;Avinguda de Francesc Macià;54;;;;25400 ;Les Borges Blanques;;41,5154876;0,8750821;41,513198276;0,876722306;OK
+772;Carrer Pau Casals, 15;Carrer Pau Casals;15;;;;25410 ;L'Espluga Calba;;41,4948872;1,0052224;41,494950846;1,005194722;OK
+773;Carrer d'el Forn, 2 (Centre de Lectura);Carrer d'el Forn;2;;;Centre de Lectura;25411 ;Fulleda;;;;41,463742983;1,023924352;OK
+774;Plaça Major, 13;Plaça Major;13;;;;25412 ;Els Omellons;;41,5012712;0,959594871;41,5012712;0,959594871;KO
+775;Carrer de Sant Blai, 20;Carrer de Sant Blai;20;;;;25413 ;La Floresta;;41,5094802;0,9203192;41,509487071;0,920038165;OK
+776;Carrer Nou, s/n;Carrer Nou;s/n;;;;25420 ;Puiggròs;;41,5512211;0,8894527;41,5512211;0,8894527;KO
+777;Carrer Major, 13;Carrer Major;13;;;;25430 ;Juneda;;41,5487784;0,8250728;41,548929343;0,825083629;OK
+778;Carrer Abeurador,1;Carrer Abeurador;;;;;25450 ;L'Albi;;;;41,423217496;0,936534447;OK
+779;Carrer l'Era, 2;Carrer l'Era;2;;;;25460 ;Cervià de les Garrigues;;;;41,424419427;0,860960241;OK
+780;Carrer Major, 12;Carrer Major;12;;;;25471 ;La Pobla de Cérvoles;;41,3672455;0,9168608;41,3672455;0,9168608;KO
+781;Avinguda de Catalunya, 13, baixos;Avinguda de Catalunya;13;;;;25500 ;La Pobla de Segur;;;;42,249336938;0,965606525;OK
+782;Carrer Antigues Escoles d'Espui, s/n;Carrer Antigues Escoles d'Espui;s/n;;;;25515 ;La Torre de Capdella;;;;0,0;0,0;KO
+783;Plaça Major, 1;Plaça Major;1;;;;25520 ;El Pont de Suert;;42,4077904;0,7405444;42,4077904;0,7405444;KO
+784;Carrer de la Placeta, 2;Carrer de la Placeta;2;;;;25527 ;Barruera;;;;42,505214735;0,801323966;OK
+785;Carrer Quairon, 2, bxs. 2a;Carrer Quairon;2;;;;25540 ;Les;;;;0,0;0,0;KO
+786;Plaça de l'Ajuntament, 3;Plaça de l'Ajuntament;3;;;;25547 ;El Vilosell;;;;0,0;0,0;KO
+787;Carrer d'en Mossèn Anton Navarro, 2;Carrer d'en Mossèn Anton Navarro;2;;;;25552 ;Vilaller;;;;0,0;0,0;KO
+788;Carrer Carles Pol i Aleu, 5;Carrer Carles Pol i Aleu;5;;;;25560 ;Sort;;;;42,412677187;1,131661928;OK
+789;Carrer del Doctor Carles Pol i Aleu, 5;Carrer del Doctor Carles Pol i Aleu;5;;;;25560 ;Sort;;42,4152017;1,1317322;42,412677187;1,131661928;OK
+790;Plaça del Tornall, 1;Plaça del Tornall;1;;;;25594 ;Rialp;;42,4439237;1,135774111;42,4439237;1,135774111;KO
+791;Carrer de la Sentiu, 14;Carrer de la Sentiu;14;;;;25600 ;Balaguer;;41,7868957;0,8116157;41,786381492;0,811413462;OK
+792;Carrer Miracle, 28, baixos;Carrer Miracle;28;;;;25600 ;Balaguer;;;;41,788325694;0,805422315;OK
+793;Carrer Soldevila, 1;Carrer Soldevila;1;;;;25611 ;Tartareu;;;;41,919473653;0,718913495;OK
+794;Carrer Major, 17;Carrer Major;17;;;;25612 ;Les Avellanes i Santa Linya;;41,8776541;0,7871413;41,877659064;0,787174812;OK
+795;Plaça Prat de la Riba, 1;Plaça Prat de la Riba;1;;;;25616 ;Montgai;;41,7998521;0,9606986;41,7998521;0,9606986;KO
+796;Carrer Joan Solsona, 2;Carrer Joan Solsona;2;;;;25617 ;La Sentiu de Sió;;;;0,0;0,0;KO
+797;Carrer Alcalde Rossell, 8-10, baixos -Centre Cívic Tarraquet-;Carrer Alcalde Rossell;8-10;;;Centre Cívic Tarraquet;25620 ;Tremp;;;;0,0;0,0;KO
+798;Carrer Lleida s/n, Casal Cultural (Apartat de Correus 73 );Carrer Lleida;s/n;;;Casal Cultural;25620 ;Tremp;;;;0,0;0,0;KO
+799;Carrer del Forn, 13;Carrer del Forn;13;;;;25630 ;Talarn;;42,1854633;0,9004806;42,185869222;0,900547492;OK
+800;Plaça del Bisbe Badia, 1;Plaça del Bisbe Badia;1;;;;25650 ;Isona i Conca Dellà;;42,11686205;1,043697195;42,11686205;1,043697195;KO
+801;Plaça del Bisbe Badia, 1, baixos;Plaça del Bisbe Badia;1;;;;25650 ;Isona i Conca Dellà;;;;0,0;0,0;KO
+802;Carrer Sitjar, 2;Carrer Sitjar;2;;;;25660 ;Alcoletge;;;;41,646998751;0,694246517;OK
+803;Carrer Baix, 21;Carrer Baix;21;;;;25670 ;Térmens;;;;0,0;0,0;KO
+804;Carrer Major, 29;Carrer Major;29;;;;25680 ;Vallfogona de Balaguer;;41,7522392;0,8156664;41,752333217;0,815663086;OK
+805;Carrer de l'Església, 27;Carrer de l'Església;27;;;;25690 ;Vilanova de la Barca;;;;0,0;0,0;KO
+806;Carrer Santes Creus, s/n;Carrer Santes Creus;s/n;;;;25691 ;Àger;;;;0,0;0,0;KO
+807;Carrer de Joaquim Viola, 12;Carrer de Joaquim Viola;12;;;;25700 ;La Seu d'Urgell;;;;42,358196635;1,457834819;OK
+808;Carrer de la Font, 7;Carrer de la Font;7;;;;25700 ;La Seu d'Urgell;;42,3554831;1,4618831;42,355540978;1,461735933;OK
+809;Carrer dels Arenys, 15;Carrer dels Arenys;15;;;;25700 ;La Seu d'Urgell;;;;42,362211796;1,464619511;OK
+810;Carrer Joaquim Viola, 11, baixos;Carrer Joaquim Viola;11;;;;25700 ;La Seu d'Urgell;;;;42,35805537;1,458019575;OK
+811;Carrer Conseller Agustí Carol i Foix, s/n;Carrer Conseller Agustí Carol i Foix;s/n;;;;25716 ;Gósol;;;;0,0;0,0;KO
+812;Carrer de l'Arbre, 2;Carrer de l'Arbre;2;;;;25720 ;Bellver de Cerdanya;;42,3695029;1,7764132;42,369429729;1,77653397;OK
+814;Carrer Puig, 7, 2n 2a;Carrer Puig;7;;2;;25727 ;Prullans;;;;42,377873643;1,738586814;OK
+815;Plaça de l'Ajuntament, 1;Plaça de l'Ajuntament;1;;;;25730 ;Artesa de Segre;;;;0,0;0,0;KO
+816;Carrer de la Font, 13;Carrer de la Font;13;;;;25735 ;Vilanova de Meià;;41,9955;1,0236838;41,995603936;1,02352691;OK
+817;Carrer de la Font, 3;Carrer de la Font;3;;;;25737 ;Baldomar;;41,9177234;1,0145424;41,918190442;1,015061191;OK
+818;Carrer Carretera, s/n;Carrer Carretera;s/n;;;;25737 ;Cubells;;;;0,0;0,0;KO
+819;Carrer Cos, 3;Carrer Cos;3;;;;25740 ;Ponts;;;;41,917549353;1,187427441;OK
+820;Carrer Vilalta, 8;Carrer Vilalta;8;;;;25748 ;Cabanabona;;;;41,851499634;1,217052841;OK
+821;Plaça del Vall, 1;Plaça del Vall;1;;;;25750 ;Torà;;41,8123459;1,402886222;41,8123459;1,402886222;KO
+822;Carrer Major, 57;Carrer Major;57;;;;25790 ;Oliana;;42,0667907;1,3141038;42,066448048;1,314148825;OK
+823;Plaça Mossèn Albert Vives, 8;Plaça Mossèn Albert Vives;8;;;;25790 ;Oliana;;;;0,0;0,0;KO
+824;Carrer de les Coques, 1 C;Carrer de les Coques;1 C;;;;43001 ;Tarragona;;41,1190891;1,2586221;41,11850993;1,258353422;OK
+825;Carrer Prat de la Riba, 6, 4t 1a;Carrer Prat de la Riba;6;;4;;43001 ;Tarragona;;;;41,115075138;1,24704886;OK
+826;Carrer Sant Antoni Maria Claret, núm. 17, Esc E3 Ps 2 Porta H;Carrer Sant Antoni Maria Claret;17;E3;2;;43002 ;Tarragona;;;;41,119744183;1,247211592;OK
+827;Avinguda de Pau Casals, 17 (Edifici Cambra de Comerç);Avinguda de Pau Casals;17;;;Edifici Cambra de Comerç;43003 ;Tarragona;;;;41,1173751;1,24966085;OK
+828;Avinguda Pau Casals, 17, 2a planta;Avinguda Pau Casals;17;;2;;43003 ;Tarragona;;;;41,1173751;1,24966085;OK
+829;Carrer Cos del Bou, 23, 2a;Carrer Cos del Bou;23;;2;;43003 ;Tarragona;;;;41,11637587;1,256656048;OK
+830;Carrer Merceria, 8, 2n,1a;Carrer Merceria;8;;2;;43003 ;Tarragona;;;;41,11820461;1,25786836;OK
+831;Carrer Sant Agustí, núm.12,4rt,1a;Carrer Sant Agustí;12;;4;;43003 ;Tarragona;;;;0,0;0,0;KO
+832;Carrer Talavera, 12, 1r;Carrer Talavera;12;;1;;43003 ;Tarragona;;;;41,11805122;1,259416017;OK
+833;Plaça dels Àngels, 2, entl. esquerra;Plaça dels Àngels;2;;entl;;43003 ;Tarragona;;;;0,0;0,0;KO
+834;Via Augusta, 43;Via Augusta;43;;;;43003 ;Tarragona;;41,1188922;1,2688379;41,116229078;1,260992941;OK
+835;Carrer Adrià, 4, baixos;Carrer Adrià;4;;;;43004 ;Tarragona;;;;41,113797325;1,25350624;OK
+836;Rambla Nova, 76, 2n 2a, esc. A;Rambla Nova;76;A;2;;43004 ;Tarragona;;;;41,115950816;1,251329524;OK
+837;Carrer Francesc Bastos, 19;Carrer Francesc Bastos;19;;;;43005 ;Tarragona;;41,1148977;1,2421597;41,114658727;1,24217865;OK
+838;"Bloc ""Jazmín"", 24, 1r 3a ( urb. la Floresta)";"Bloc ""Jazmín""";24;;1;;43006 ;Tarragona;Urbanització La Floresta;;;0,0;0,0;KO
+839;Carrer del  Vendrell, 8;Carrer del  Vendrell;8;;;;43006 ;Tarragona;;41,1181586;1,2191631;41,118282521;1,219259827;OK
+840;Carrer Gran Canària, 37, baixos;Carrer Gran Canària;37;;;;43006 ;Tarragona;;;;0,0;0,0;KO
+842;Carrer Lluis Bonet i Amigó, 1, bxos F;Carrer Lluis Bonet i Amigó;1;;;;43006 ;Tarragona;;;;0,0;0,0;KO
+843;Carrer Riu Brugent, 16 bloc 4, esc. 17, 1-1;Carrer Riu Brugent;16;4;1;;43006 ;Tarragona;;;;41,116727272;1,203832565;OK
+844;Carrer Riu Brugent,16, bloc 4, esc. 17, 1r 1a;Carrer Riu Brugent;16;4;1;;43006 ;Tarragona;;;;41,116727272;1,203832565;OK
+847;Plaça Garcóa Lorca, 4;Plaça Garcóa Lorca;4;;;;43006 ;Tarragona;;;;0,0;0,0;KO
+850;Carrer Urbanització Els Pinars, 63;Carrer Urbanització Els Pinars;63;;;;43007 ;Tarragona;;;;0,0;0,0;KO
+851;Carrer Violant d'Hongria, 3, 2n 2a;Carrer Violant d'Hongria;3;;2;;43007 ;Tarragona;;;;41,136925525;1,256388474;OK
+852;Passatge Bonaire, 5;Passatge Bonaire;5;;;;43007 ;Tarragona;;41,1298879;1,2393152;41,130247708;1,239530993;OK
+853;Carrer de la Vall d'Aran, 53 -Urb. La Mòra;Carrer de la Vall d'Aran;53;;;;43008 ;Tarragona;Urbanització La Mora;;;41,132012562;1,352413673;OK
+854;Carrer Segrià, 8  (Urbanització La Mora);Carrer Segrià;8;;;;43008 ;Tarragona;Urbanització La Mora;41,1368598;1,3473427;41,137288568;1,347375222;OK
+855;Plaça de Catalunya s/n (Centre Cívic);Plaça de Catalunya;s/n;;;Centre Cívic;43110 ;La Canonja;;;;0,0;0,0;KO
+856;Carrer Castell, 4;Carrer Castell;4;;;;43120 ;Constantí;;;;41,153929816;1,212963383;OK
+857;Carrer Església Vella, 1-3 baixos - CASAL D´ENTITATS;Carrer Església Vella;1-3;;;Casal d´Entitats;43120 ;Constantí;;;;0,0;0,0;KO
+859;Avinguda Generalitat , 20;Avinguda Generalitat ;20;;;;43140 ;La Pobla de Mafumet;;;;41,187291445;1,208790071;OK
+860;Carrer Alt, 23  (Ajuntament);Carrer Alt;23;;;Ajuntament;43151 ;Els Pallaresos;;;;41,175602633;1,272137057;OK
+861;Carrer Nou, 33;Carrer Nou;33;;;;43152 ;Perafort;;41,193418;1,2421789;41,193418;1,2421789;KO
+862;Carrer Doctor Robert, 20, 2n,1a;Carrer Doctor Robert;20;;2;;43201 ;Reus;;;;41,157244429;1,109833434;OK
+863;Carrer Doctor Ferran, 8;Carrer Doctor Ferran;8;;;;43202 ;Reus;;;;41,154834282;1,101619534;OK
+864;Carrer Martí Napolità, 7;Carrer Martí Napolità;7;;;;43202 ;Reus;;;;0,0;0,0;KO
+865;Carrer Santa Elena, 11;Carrer Santa Elena;11;;;;43202 ;Reus;;;;41,158060607;1,102535995;OK
+866;Plaça De l'hort dels canonges, 1;Plaça De l'hort dels canonges;1;;;;43203 ;Reus;;41,15616375;1,114595268;41,15616375;1,114595268;KO
+867;Camí de Valls, 75, 3r, 4a;Camí de Valls;75;;3;;43204 ;Reus;;;;0,0;0,0;KO
+868;Carrer de l'Abad Oliva, 31 (Centre Cívic Llevant);Carrer de l'Abad Oliva;31;;;Centre Cívic Llevant;43204 ;Reus;;;;41,156265126;1,115424809;OK
+869;Carrer de l'Abat Escarré, 11;Carrer de l'Abat Escarré;11;;;;43204 ;Reus;;41,1571122;1,1168707;41,1571122;1,1168707;KO
+870;Carrer Mas Iglesias, 38;Carrer Mas Iglesias;38;;;;43204 ;Reus;;;;41,148742204;1,122571969;OK
+871;Carrer Raval Robuster, 36;Carrer Raval Robuster;36;;;;43204 ;Reus;;;;41,152864281;1,109318827;OK
+872;Avinguda Carrilet, 29 (Centre Cívic Carrilet);Avinguda Carrilet;29;;;Centre Cívic Carrilet;43205 ;Reus;;;;41,151107744;1,109991803;OK
+873;Carrer Escorial (CC Migjorn);Carrer Escorial;;;;Centre Cívic Migjorn;43205 ;Reus;;;;0,0;0,0;KO
+874;Avinguda de Barcelona, 6 (Centre Cívic Mestral);Avinguda de Barcelona;6;;;Centre Cívic Mestral;43206 ;Reus;;;;41,160329208;1,095959607;OK
+876;Carrer Roger de Llúria, 36;Carrer Roger de Llúria;36;;;;43206 ;Reus;;;;0,0;0,0;KO
+877;Carrer Major, 2;Carrer Major;2;;;;43300 ;Mont-roig del Camp;;41,087895;0,9585462;41,087781942;0,958867751;OK
+878;Avinguda de Reus, 1;Avinguda de Reus;1;;;;43311 ;Vilanova d'Escornalbou;;41,1124531;0,9405983;41,11311923;0,938524993;OK
+879;Avinguda Catalunya, 7;Avinguda Catalunya;7;;;;43320 ;Pratdip;;;;41,051543696;0,871559617;OK
+880;Avinguda Josep M. Sentis, 25;Avinguda Josep M. Sentis;25;;;;43330 ;Riudoms;;;;41,141085225;1,04952264;OK
+881;Carrer Antoni Gaudi, 12;Carrer Antoni Gaudi;12;;;;43330 ;Riudoms;;;;41,138426787;1,052201633;OK
+882;Carrer Doctor Gener, 3;Carrer Doctor Gener;3;;;;43340 ;Montbrió del Camp;;;;0,0;0,0;KO
+883;Passeig Hort d'en Dasca, s/n;Passeig Hort d'en Dasca;s/n;;;;43350 ;Les Borges del Camp;;;;41,174834374;1,019702343;OK
+884;Carrer Comte de Rius, 10, 2n;Carrer Comte de Rius;10;;2;;43360 ;Cornudella de Montsant;;;;41,264781451;0,905103982;OK
+885;Carrer Major, 4;Carrer Major;4;;;;43361 ;La Morera de Montsant;;41,2650148;0,8417197;41,264538539;0,84168699;OK
+886;Carrer de la Saltadora, 28;Carrer de la Saltadora;28;;;;43363 ;Ulldemolins;;41,3219168;0,8764245;41,321455476;0,87643404;OK
+887;Carrer Sant Martí, 10;Carrer Sant Martí;10;;;;43364 ;Prades;;;;0,0;0,0;KO
+888;Carrer de la Font, 56-58;Carrer de la Font;56-58;;;;43365 ;Alforja;;41,2108514;0,9748031;41,211402026;0,975255054;OK
+889;Carrer Major, 11;Carrer Major;11;;;;43370 ;La Palma d'Ebre;;;;41,28288894;0,665722347;OK
+890;Carrer de la Palma, 4;Carrer de la Palma;4;;;;43372 ;La Bisbal de Falset;;41,2804275;0,7221316;41,280343944;0,723128343;OK
+891;Carrer Major, 29;Carrer Major;29;;;;43373 ;Cabacés;;41,2478231;0,7337787;41,2478231;0,7337787;KO
+892;Avinguda de Vilanova, 1;Avinguda de Vilanova;1;;;;43376 ;Molar;;41,1640038;0,7036702;41,16419307;0,704606327;OK
+893;Carrer Major, 21;Carrer Major;21;;;;43376 ;Poboleda;;41,233977;0,8452137;41,234068815;0,845172445;OK
+894;Carrer Àngel Guimerà, 8;Carrer Àngel Guimerà;8;;;;43380 ;Vilaplana;;;;0,0;0,0;KO
+895;Plaça Onze de Setembre, 4;Plaça Onze de Setembre;4;;;;43381 ;L'Aleixar;;41,2015826;1,0448658;41,2015826;1,0448658;KO
+896;Carrer Església, 30;Carrer Església;30;;;;43382 ;Maspujols;;41,1820018;1,0463591;41,182371966;1,046350953;OK
+897;Plaça Major, 1 (Ajuntament vell);Plaça Major;1;;;Ajuntament vell;43390 ;Riudecols;;;;0,0;0,0;KO
+898;Raval de Sant Joan , 1;Raval de Sant Joan ;1;;;;43391 ;Vinyols i els Arcs;;41,1139612;1,0378235;41,113665633;1,038114613;OK
+899;Carrer Sant Jaume, 10;Carrer Sant Jaume;10;;;;43392 ;Castellvell del Camp;;;;41,180063178;1,098154283;OK
+900;Carrer Abadia, 1;Carrer Abadia;1;;;;43393 ;Almoster;;;;41,198048352;1,113520328;OK
+901;Plaça Poblet i Teixidó, 10, 1r esq.;Plaça Poblet i Teixidó;10;;1;;43400 ;Montblanc;;;;0,0;0,0;KO
+902;Plaça Major, 1, 1r 1a;Plaça Major;1;;1;;43412 ;Solivella;;;;0,0;0,0;KO
+903;Passeig de  la Muralla s/n;Passeig de  la Muralla;s/n;;;;43420 ;Santa Coloma de Queralt;;41,5332543;1,3848403;41,532525341;1,386587685;OK
+904;Carrer Societat, 37;Carrer Societat;37;;;;43422 ;Barberà de la Conca;;;;41,41224227;1,225820945;OK
+905;Carrer Major, 53;Carrer Major;53;;;;43424 ;Sarral;;41,4448632;1,2478566;41,44398854;1,248472294;OK
+906;Carrer Sant Antoni, 27;Carrer Sant Antoni;27;;;;43426 ;Rocafort de Queralt;;;;41,477532052;1,280812654;OK
+907;Plaça Major, 12;Plaça Major;12;;;;43430 ;Vimbodí;;;;0,0;0,0;KO
+908;Plaça Montserrat Canals, 1;Plaça Montserrat Canals;1;;;;43440 ;L'Espluga de Francolí;;;;0,0;0,0;KO
+909;Carrer de Prades, 6;Carrer de Prades;6;;;;43450 ;La Riba;;;;41,318838545;1,178543202;OK
+910;Carrer de l'Amorós, 11;Carrer de l'Amorós;11;;;;43460 ;Alcover;;;;0,0;0,0;KO
+911;Carrer Major, 50;Carrer Major;50;;;;43470 ;La Selva del Camp;;41,2153351;1,1376256;41,2156194;1,137258585;OK
+912;Carrer Dragó, 15, bústia 50;Carrer Dragó;15;;;;43478 ;L'Albiol;;;;0,0;0,0;KO
+913;Carrer Almeria, 27;Carrer Almeria;27;;;;43480 ;Vila-seca;;;;41,129591036;1,128459251;OK
+914;Carrer Requet de Fèlix, 25, baixos;Carrer Requet de Fèlix;25;;;;43480 ;Vila-seca;;;;0,0;0,0;KO
+915;Carrer Sant Jordi, 25;Carrer Sant Jordi;25;;;;43480 ;Vila-seca;;;;41,111238612;1,142478506;OK
+916;Carrer Alfredo Kraus, 20;Carrer Alfredo Kraus;20;;;;43481 ;La Pineda;;;;41,080366818;1,179032049;OK
+917;Avinguda Generalitat, 77, 1r 1a;Avinguda Generalitat;77;;1;;43500 ;Tortosa;;;;40,808506238;0,520256116;OK
+918;Carrer Alfara, 20, baixos;Carrer Alfara;20;;;;43500 ;Tortosa;;;;40,837324907;0,44855359;OK
+919;Carrer Barcelona, 115, baixos;Carrer Barcelona;115;;;;43500 ;Tortosa;;;;40,800608182;0,524777335;OK
+920;Carrer Berenguer IV, 34 2n;Carrer Berenguer IV;34;;2;;43500 ;Tortosa;;;;40,80963062;0,523964664;OK
+921;Carrer Bernat de Vil·lamari, 5 3r 4ª;Carrer Bernat de Vil·lamari;5;;3;;43500 ;Tortosa;;;;40,804320892;0,522354074;OK
+922;Carrer de Barcelona, 115, baixos;Carrer de Barcelona;115;;;;43500 ;Tortosa;;;;40,800608182;0,524777335;OK
+923;Carrer de Cervantes, 7;Carrer de Cervantes;7;;;;43500 ;Tortosa;;;;40,858541772;0,523113539;OK
+924;Carrer Mossen Ovidi, s/n;Carrer Mossen Ovidi;s/n;;;;43500 ;Tortosa;;;;40,799130002;0,519702145;OK
+925;Carrer Poeta Vicent Garcia, 3;Carrer Poeta Vicent Garcia;3;;;;43500 ;Tortosa;;;;40,807425428;0,523284356;OK
+926;Plaça Del Platge, 2;Plaça Del Platge;2;;;;43500 ;Tortosa;;;;0,0;0,0;KO
+927;Carrer Joventut, 19;Carrer Joventut;19;;;;43510 ;Bítem (Tortosa);;;;0,0;0,0;KO
+928;Carrer Abadia,9;Carrer Abadia;;;;;43511 ;Tivenys;;;;40,907191241;0,51185322;OK
+929;Carrer Marcel·lí Domingo, 2;Carrer Marcel·lí Domingo;2;;;;43512 ;Benifallet;;;;40,973682592;0,517156746;OK
+930;Carrer de Tortosa, 16;Carrer de Tortosa;16;;;;43513 ;Rasquera;;;;41,001420272;0,596766965;OK
+931;Carrer del Molí, 26;Carrer del Molí;26;;;;43514 ;Mas de Barberans;;;;0,0;0,0;KO
+932;Carrer de Sant Llorenç, 36, 2n;Carrer de Sant Llorenç;36;;2;;43515 ;La Galera;;;;0,0;0,0;KO
+933;Carrer de Joan Tomàs, 9;Carrer de Joan Tomàs;9;;;;43516 ;Godall;;;;0,0;0,0;KO
+934;Plaça Divina Pastora, 2;Plaça Divina Pastora;2;;;;43517 ;Vinallop;;;;0,0;0,0;KO
+935;Carrer Masia , 1, 5è 1a;Carrer Masia ;1;;5;;43520 ;Roquetes;;;;40,818411365;0,506392826;OK
+936;Urbanització Torre d'en Gil  -Centre Cívic  Ortuella, s/n. Aula 9;Urbanització Torre d'en Gil;s/n;;;Centre Cívic  Ortuella;43520 ;Roquetes;;;;0,0;0,0;KO
+937;Plaça Regne d'Espanya, 5;Plaça Regne d'Espanya;5;;;;43527 ;Els Reguers;;;;0,0;0,0;KO
+938;Carrer Nou, 4;Carrer Nou;4;;;;43528 ;Alfara de Carles;;;;40,872949518;0,400423567;OK
+939;Avinguda Generalitat, 11;Avinguda Generalitat;11;;;;43530 ;Alcanar;;;;40,54321823;0,481775197;OK
+940;Carrer Felip II, s/n (Apartat de Correus, 151);Carrer Felip II;s/n;;;;43550 ;Ulldecona;;;;40,597625567;0,443241892;OK
+941;Carrer Sant Pascual,46, 1r.;Carrer Sant Pascual;6;;1;;43550 ;Ulldecona;;;;40,595947575;0,446643148;OK
+942;Carrer Del Mas, 9;Carrer Del Mas;9;;;;43560 ;La Sènia;;;;0,0;0,0;KO
+943;Carrer Doctor Coto, 56;Carrer Doctor Coto;56;;;;43570 ;Santa Bàrbara;;;;0,0;0,0;KO
+944;Plaça d'Espanya, 19;Plaça d'Espanya;19;;;;43570 ;Santa Bàrbara;;;;0,0;0,0;KO
+945;Avinguda Catalunya, 9 local nº 6;Avinguda Catalunya;9;;;;43580 ;Deltebre;;;;40,720088603;0,722857919;OK
+946;Avinguda de les Goles de l'Ebre, 208;Avinguda de les Goles de l'Ebre;208;;;;43580 ;Deltebre;;;;40,716783503;0,736987649;OK
+947;Plaça Major, 7;Plaça Major;7;;;;43580 ;Deltebre;;;;0,0;0,0;KO
+948;Ramón i  Cajal, 17;Ramón i  Cajal;17;;;;43580 ;Deltebre;;;;0,0;0,0;KO
+949;Ramón i Cajal, 17;Ramón i Cajal;17;;;;43580 ;Deltebre;;;;0,0;0,0;KO
+950;Carrer de les Escoles Velles, 9 (Apartat de Correus 100);Carrer de les Escoles Velles;9;;;;43590 ;Jesús-Tortosa;;;;0,0;0,0;KO
+951;Plaça Major, 13, 2n (Ajuntament);Plaça Major;13;;2;Ajuntament;43592 ;Xerta;;;;0,0;0,0;KO
+952;Carrer Sant Antoni, 17;Carrer Sant Antoni;17;;;;43593 ;Paüls;;;;0,0;0,0;KO
+953;Carrer Major, 8;Carrer Major;8;;;;43594 ;El Pinell de Brai;;;;41,015857585;0,514668151;OK
+954;Carrer Josep Major, 32;Carrer Josep Major;32;;;;43595 ;Prat de Comte;;;;40,983114279;0,405732785;OK
+955;Avinguda de la Generalitat, 13;Avinguda de la Generalitat;13;;;;43596 ;Horta de Sant Joan;;;;40,956781367;0,315472333;OK
+956;Carrer Doctor Trueta, 1;Carrer Doctor Trueta;1;;;;43597 ;Arnes;;;;40,90930828;0,260545152;OK
+957;Avinguda de Jaume Carner, 1 (Centre Cívic);Avinguda de Jaume Carner;1;;;Centre Cívic;43700 ;El Vendrell;;;;41,220908682;1,53755957;OK
+958;Carrer Camí Reial, 13, 1r (Hotel d'Entitats);Carrer Camí Reial;13;;1;Hotel d'Entitats;43700 ;El Vendrell;;;;0,0;0,0;KO
+959;Carrer Nord, 11-13;Carrer Nord;11-13;;;;43700 ;El Vendrell;;;;41,222111168;1,538105586;OK
+961;Carrer Torres i Bages, 24;Carrer Torres i Bages;24;;;;43710 ;Santa Oliva;;;;41,253702284;1,550041632;OK
+962;Carrer del Mestre Güell, 4, 1r;Carrer del Mestre Güell;4;;1;;43711 ;Banyeres del Penedès;;;;0,0;0,0;KO
+963;La Carretera, 29;La Carretera;29;;;;43713 ;Sant Jaume dels Domenys;;;;41,298272424;1,558900861;OK
+964;Carrer Major, 21;Carrer Major;21;;;;43717 ;La Bisbal del Penedès;;41,2810667;1,4875431;41,2810667;1,4875431;KO
+965;Prolongació Avinguda Nostra Senyora, 17;Prolongació Avinguda Nostra Senyora;17;;;;43719 ;Bellvei;;;;0,0;0,0;KO
+966;Plaça de la Quartera, 1;Plaça de la Quartera;1;;;;43730 ;Falset;;41,1454265;0,8201274;41,1454265;0,8201274;KO
+967;Plaça de la Quartera, 6, 1;Plaça de la Quartera;6;;1;;43730 ;Falset;;;;0,0;0,0;KO
+968;Carrer Nou, 5;Carrer Nou;5;;;;43736 ;El Masroig;;41,1265094;0,7306324;41,126011297;0,732253462;OK
+969;Carrer Major, 31;Carrer Major;31;;;;43737 ;Torroja del Priorat;;41,2130594;0,8111031;41,213888905;0,810204604;OK
+970;Avinguda de les Comarques Catalanes, 61, 2n 2a;Avinguda de les Comarques Catalanes;61;;2;;43740 ;Móra d'Ebre;;;;0,0;0,0;KO
+971;Carrer del Portell, 2;Carrer del Portell;2;;;;43746 ;Tivissa;;;;41,042665249;0,733978086;OK
+972;Carrer del Calvari;Carrer del Calvari;;;;;43747 ;Benissanet;;;;41,058713218;0,633760819;OK
+973;Plaça Major, 1;Plaça Major;1;;;;43747 ;Miravet;;;;0,0;0,0;KO
+974;Carrer del Riu, 7;Carrer del Riu;7;;;;43748 ;Ginestar;;;;41,042787191;0,635211385;OK
+975;Carrer Major, 49;Carrer Major;49;;;;43749 ;Garcia;;;;41,136800043;0,648064176;OK
+976;Carrer del Mercat, 6;Carrer del Mercat;6;;;;43750 ;Flix;;;;41,230754238;0,551254705;OK
+977;Carrer La Coma, 2, 3r;Carrer La Coma;2;;3;;43760 ;El Morell;;;;41,190762806;1,208593608;OK
+978;Carrer de Sant Pau, 12 bxos.;Carrer de Sant Pau;12;;;;43762 ;La Riera de Gaià;;;;41,166676638;1,359512018;OK
+979;Plaça del Centenari, 2;Plaça del Centenari;2;;;;43763 ;La Nou de Gaià;;41,18302995;1,374152215;41,18302995;1,374152215;KO
+980;Carrer del Mar, 3;Carrer del Mar;3;;;;43764 ;El Catllar;;41,1706627;1,3078146;41,171062029;1,308741326;OK
+981;Carrer del Requet, s/n;Carrer del Requet;s/n;;;;43764 ;El Catllar;;;;0,0;0,0;KO
+982;Carrer Major, 88;Carrer Major;88;;;;43770 ;Móra la Nova;;;;0,0;0,0;KO
+983;Carrer Dissabte,46;Carrer Dissabte;6;;;;43771 ;Riudecanyes;;;;41,1299234;0,960858942;OK
+984;Carrer Major, 6;Carrer Major;6;;;;43772 ;Botarell;;41,1360658;0,9895153;41,136083836;0,989323112;OK
+985;Carrer del Mig, 8;Carrer del Mig;8;;;;43773 ;Duesaigües;;;;0,0;0,0;KO
+986;Carrer Deumera,9;Carrer Deumera;;;;;43773 ;L'Argentera;;;;41,138199892;0,909200286;OK
+987;Plaça Arenes, 1;Plaça Arenes;1;;;;43775 ;Marçà;;;;0,0;0,0;KO
+988;Avinguda de la  Carretera, 35;Avinguda de la  Carretera;35;;;;43777 ;Els Guiamets;;41,1015494;0,7519853;41,101352514;0,752656594;OK
+989;Plaça de l'Església, 1;Plaça de l'Església;1;;;;43780 ;Gandesa;;;;0,0;0,0;KO
+990;Avinguda Catalunya, 3;Avinguda Catalunya;3;;;;43781 ;La Fatarella;;;;41,16305702;0,474447064;OK
+991;Carrer de Sant Llorenç, 4;Carrer de Sant Llorenç;4;;;;43782 ;Vilalba dels Arcs;;;;0,0;0,0;KO
+992;Plaça Major, 1;Plaça Major;1;;;;43783 ;La Pobla de Massaluca;;;;0,0;0,0;KO
+993;Carrer Terra Alta, 30;Carrer Terra Alta;30;;;;43784 ;Corbera d'Ebre;;;;41,076420232;0,474133;OK
+994;Avinguda Catalunya, 33;Avinguda Catalunya;33;;;;43785 ;Bot;;;;41,010535214;0,385737737;OK
+995;Carrer Caseres, 50, porta 1;Carrer Caseres;50;;;;43785 ;Bot;;;;41,00915944;0,381845478;OK
+996;Plaça d'Espanya, 8, baixos;Plaça d'Espanya;8;;;;43786 ;Batea;;;;0,0;0,0;KO
+997;Carrer Major, 31;Carrer Major;31;;;;43790 ;Riba-roja d'Ebre;;;;41,25074174;0,487238906;OK
+998;Carrer Major, 6;Carrer Major;6;;;;43791 ;Ascó;;;;0,0;0,0;KO
+999;Plaça Pau, 5;Plaça Pau;5;;;;43792 ;La Torre de l'Espanyol;;;;0,0;0,0;KO
+1000;Carrer Quatre Barres Catalanes, 2, 2n;Carrer Quatre Barres Catalanes;2;;2;;43792 ;Vinebre;;;;41,182936965;0,591796587;OK
+1001;Carretera del Pla de Santa Maria, 37 A;Carretera del Pla de Santa Maria;37 A;;;;43800 ;Valls;;41,3164113;1,2698644;41,3164113;1,2698644;KO
+1002;Carretera del Pla de Santa Maria, 37 A;Carretera del Pla de Santa Maria;37 A;;;;43800 ;Valls;;41,3164113;1,2698644;41,3164113;1,2698644;KO
+1003;Plaça de la Vila, 1;Plaça de la Vila;1;;;;43810 ;El Pla de Santa Maria;;;;0,0;0,0;KO
+1004;Plaça de l'Església, 1;Plaça de l'Església;1;;;;43811 ;Cabra del Camp;;;;0,0;0,0;KO
+1005;Plaça Sant Jaume, s/n;Plaça Sant Jaume;s/n;;;;43811 ;Figuerola del Camp;;;;0,0;0,0;KO
+1006;Plaça de la Vila, 1;Plaça de la Vila;1;;;;43812 ;Bràfim;;41,2687;1,341215267;41,2687;1,341215267;KO
+1007;Plaça de la Vila, 14;Plaça de la Vila;14;;;;43812 ;Puigpelat;;41,2798625;1,296901853;41,2798625;1,296901853;KO
+1008;Carrer Renaixement, 8;Carrer Renaixement;8;;;;43812 ;Rodonyà;;;;41,280613774;1,395909327;OK
+1009;Carrer Major, 14E;Carrer Major;14E;;;;43813 ;Fontsacaldes (Valls);;;;0,0;0,0;KO
+1010;Plaça dels Arbres, 7;Plaça dels Arbres;7;;;;43814 ;Vila-rodona;;41,310607;1,3579812;41,310607;1,3579812;KO
+1011;Carrer de Joan Prats, 28;Carrer de Joan Prats;28;;;;43817 ;El Pont d'Armentera;;41,3835607;1,3624549;41,383270131;1,362244538;OK
+1012;Plaça de la Vila, 1;Plaça de la Vila;1;;;;43830 ;Torredembarra;;41,1447044;1,3966503;41,1447044;1,3966503;KO
+1013;Verge del Carme, 19;Verge del Carme;19;;;;43838 ;Creixell;;;;41,169072087;1,433981432;OK
+1014;Carrer Lleida, 3;Carrer Lleida;3;;;;43839 ;Creixell;;;;41,164516884;1,445565717;OK
+1015;Carrer de l'Advocat Gallego, 2 (Centre Cívic);Carrer de l'Advocat Gallego;2;;;Centre Cívic;43840 ;Salou;;;;41,081382602;1,135464442;OK
+1016;Carrer de Tarragona, 20, esc. A, 4t 1a;Carrer de Tarragona;20;A;4;;43840 ;Salou;;;;41,084233229;1,136386071;OK
+1017;Carrer Azaleas, 7;Carrer Azaleas;7;;;;43850 ;Cambrils;;;;41,074371982;1,092915068;OK
+1018;Carrer Sant Pere, 32 (CC. Les Basses);Carrer Sant Pere;32;;;Centre Cívic Les Basses;43850 ;Cambrils;;;;41,067114377;1,062040385;OK
+1019;Carrer Sant Plàcid, 18-20;Carrer Sant Plàcid;18-20;;;;43850 ;Cambrils;;;;0,0;0,0;KO
+1021;Avinguda del Batlle Josep Pijoan , 26, baixos;Avinguda del Batlle Josep Pijoan ;26;;;;43860 ;L'Ametlla de Mar;;;;40,885628851;0,803031074;OK
+1022;Passatge Cervantes,5;Passatge Cervantes;;;;;43870 ;Amposta;;;;40,709956315;0,576905174;OK
+1023;Carrer César Mayor, s/n;Carrer César Mayor;s/n;;;;43879 ;Els Muntells;;;;0,0;0,0;KO
+1024;Carrer La Pedrera, 1;Carrer La Pedrera;1;;;;43881 ;Cunit;;;;41,201341574;1,63478353;OK
+1025;Carrer Hospital, 5;Carrer Hospital;5;;;;43886 ;Vilabella;;;;41,246968045;1,330411713;OK
+1026;Carrer d'Anselm Clavé, 2 (Centre Cultural);Carrer d'Anselm Clavé;2;;;Centre Cultural;43887 ;Nulles;;;;41,249518263;1,296540766;OK
+1027;Carrer de les Escoles, 12, 1r dreta;Carrer de les Escoles;12;;1;;43890 ;L'Hospitalet de l'Infant;;;;40,992718767;0,921433907;OK
+1028;Carrer Remullà, 21;Carrer Remullà;21;;;;43891 ;Vandellòs;;41,0196254;0,8290374;41,0196254;0,8290374;KO
+1029;Plaça  Comunidó s/n. Apartat de correus 38;Plaça  Comunidó;s/n;;;;43893 ;Altafulla;;;;0,0;0,0;KO
+1030;Disseminats la Gravera s/n;Disseminats la Gravera;s/n;;;;43894 ;Camarles;;;;40,778824202;0,672311229;OK
+1031;Plaça Manel Ferre;Plaça Manel Ferre;;;;;43895 ;L'Ampolla;;;;0,0;0,0;KO
+1032;Camí de Burjassenia, 331;Camí de Burjassenia;331;;;;43896 ;L'Aldea;;;;0,0;0,0;KO
+262;Departamen de Traducció Edifici K – Universitat Autònoma de Barcelona;;;;;;08193 ;Bellaterra;;41,5044103;2,1049185;41,501884237;2,108770421;OK
+308;Barri Font dels Capellans, bloc 14, local 75;Barri Font dels Capellans;bloc 14;;;;08243 ;Manresa;;41,7287687;1,8402743;41,7287687;1,8402743;KO
+309;Carrer Castelldral, 5-7 - Polígon Industrial Els Dolors, s/n;Carrer Castelldral;5-7;;;;08243 ;Manresa; Polígon Industrial Els Dolors;41,7388047;1,847291;41,740887577;1,845915433;OK
+369;Mas Serra-Rica;;;;;Mas Serra-Rica;08505 ;Muntanyola;;41,8725788;2,1783306;41,912209784;2,160834505;OK
+412;Parc Vall Palau, bloc 12 (Centre Cívic);Camí Vell del Palau;;12;;;08740 ;Sant Andreu de la Barca;Parc Vall Palau;41,4547227;1,9580072;41,4547227;1,9580072;KO
+439;Passeig Ramon Codina, bloc 27, esc. 65, local 2;Passeig Ramon Codina;65;;;;08820 ;El Prat de Llobregat;;41,3185851;2,0885678;41,318350742;2,088331581;OK
+486;Grup de Vivendes Verge de la Salut, bloc 3, local 1;Grup de Vivendes Verge de la Salut;3;;;;08914 ;Badalona;;41,4461735;2,2256957;41,4461735;2,2256957;KO
+500;Carrer Sant Marc, local 15;Carrer Sant Marc;;;;;08918 ;Badalona;;41,4391051;2,2308174;41,439286498;2,23021693;OK
+537;Plaça de la Sardana, baixos;Plaça de la Sardana;;;;;08970 ;Sant Joan Despí;;41,3694725;2,0579913;41,3694725;2,0579913;KO
+607;Sala Eudald Graells;;;;;Sala Eudald Graells;17500 ;Ripoll;;42,1995614;2,1924645;42,18972012;2,217239761;OK
+612;Cal Coronel 17468 Terradelles;;;;;Cal Coronel;17468;Terradelles;;;;0,0;0,0;KO
+709;Bloc Sant Sebastià A, 1r 1a;Bloc Sant Sebastià A;;;1;;25185 ;La Granja d'Escarp;;41,4197252;0,3523504;41,4197252;0,3523504;KO
+751;Habitatges La Plana, Blc A, Esc 2, 2n 2a;Carrer de la Plana;27;A-2;2;;25300 ;Tàrrega;Habitatges de la Plana;41,6438833;1,1435028;41,6438833;1,1435028;KO
+752;Habitatges la Plana, s/n Bloc 2, esc. A, 3r 1a;Carrer de la Plana;27;A-2;3;;25300 ;Tàrrega;Habitatges de la Plana;41,6438738;1,143484;41,6438738;1,143484;KO
+813;Carrer Major, 19. Cal Sandic;Carrer Major;19;;;Cal Sandic;25726 ;Arànser (Lles de Cerdanya);;42,4081506;1,6622682;42,4081506;1,6622682;KO
+841;Carrer Icomar, bloc 4, baixos;Carrer d'Icomar;4;;;;43006 ;Tarragona;;41,1165912;1,2261423;41,117224358;1,225303478;OK
+845;Carrer Riu Segre, bl. 3 local 20  (Urbanización Torrenova);Carrer Riu Segre;bloc 3;;;;43006 ;Tarragona;Urbanització Torrenova;41,1166154;1,2111086;41,12007315;1,210791786;OK
+846;Parc Riu Clar, bloc Acesa, 8, baixos 3a;Parc Riu Clar;bloc Acesa 8;;;;43006 ;Tarragona;;;;0,0;0,0;KO
+848;Bloc Baix Penedès, esc A,1r,3a;Bloc Baix Penedès;;A;1;Bloc Baix Penedès;43007 ;Tarragona;Sant Pere i Sant Pau;41,1380657;1,2494507;41,1380657;1,2494507;KO
+849;Carrer Bloc Paraguay, Escala A, 5è 4a;Carrer Bloc Paraguay;Escala A;;5;;43007 ;Tarragona;;41,1378051;1,2484315;41,1378051;1,2484315;KO
+858;Avinguda dels Pins s/n. Centre Cívic de Sant Salvador;Avinguda dels Pins;s/n;;;Centre Cívic de Sant Salvador;43130 ;Tarragona;;41,1618938;1,2434815;41,16432448;1,246939695;OK
+875;Avinguda Saragossa, bloc 2, accés A;Avinguda Saragossa;bloc 2;;;;43206 ;Reus;;;;41,16028578;1,091602618;OK
+960;Avinguda de Jaume Carner, 1. Centre Cívic l'Estació;Avinguda de Jaume Carner;1;;;Centre Cívic l'Estació;43700 ;El Vendrell;;41,2211055;1,5378258;41,220908682;1,53755957;OK
+1020;Passatge número 5, 12. Centre Cívic Nou Cambrils;Passatge 5;12;;;Centre Cívic Cambrils;43850 ;Cambrils;;41,0780956;1,0531667;41,078041634;1,053186599;OK
