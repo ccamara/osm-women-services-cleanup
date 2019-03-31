@@ -35,9 +35,17 @@ J007 = J007_raw %>%
   mutate(TIPUS_VIA = replace(TIPUS_VIA, TIPUS_VIA == "Av", "Avinguda de")) %>%
   mutate(`addr:street` = as.character(paste(TIPUS_VIA, NOM_CARRER,
                                             sep = " "))) %>%
-  select(-TIPUS_VIA, -NOM_CARRER)
+  select(-TIPUS_VIA, -NOM_CARRER) %>%
+  mutate(description = gsub("<br>", "", description)) %>%
+  mutate(amenity = "social_facility") %>%
+  mutate(`social_facility:for` = "woman") %>%
+  mutate(source = "Ajuntament de Barcelona") %>%
+  mutate(`source:date` = "2019-01-29") %>%
+  mutate(`contact:phone` = paste("+34", J007$`contact:phone`, sep = " ")) %>%
+  mutate(`addr:city` = "Barcelona")
 
-J007$description = gsub("<br>", "", J007$description)
+write.csv(J007, file = "output/J007_clean.csv", row.names = FALSE)
+
 
 # TODO: contruct opening_times column.
 
@@ -45,15 +53,7 @@ J007$description = gsub("<br>", "", J007$description)
 # unsuccessful attempt.
 # J007$`addr:street` = gsub("(de )[AEIOU]", "d'", J007$`addr:street`)
 
-# Add fixed values.
-J007$amenity = "social_facility"
-J007$`social_facility:for` = "woman"
-J007$source = "Ajuntament de Barcelona"
-J007$`source:date` = "2019-01-29"
-J007$`contact:phone` = paste("+34", J007$`contact:phone`, sep = " ")
-J007$`addr:city` = "Barcelona"
 
-write.csv(J007, file = "output/J007_clean.csv", row.names = FALSE)
 
 # 2. Serveis i oficines d'informació i atenció a les dones -----------------
 
@@ -74,21 +74,20 @@ oficines = oficines_raw %>%
          `contact:email` = correu_electr_nic,
          operator = titularitat,
          latitude = latitud,
-         longitude = longitud)
+         longitude = longitud) %>%
+  mutate(amenity = "social_facility") %>%
+  mutate(`social_facility:for` = "woman") %>%
+  mutate(source = "Generalitat de Catalunya") %>%
+  mutate(`source:date` = "2018-05-03")
 
 # TODO: split address.
-
-oficines$amenity = "social_facility"
-oficines$`social_facility:for` = "woman"
-oficines$source = "Generalitat de Catalunya"
-oficines$`source:date` = "2018-05-03"
 
 write.csv(oficines, file = "output/oficines_clean.csv")
 
 
 # 3. The LGBTI Comprehensive Services Services Network of Catalonia  -------
-#
-# Uncomment below to Fetch latest data from City council.
+
+# Uncomment below to Fetch latest data from source.
 # download.file("https://analisi.transparenciacatalunya.cat/resource/utrz-jf79.csv",
 #                          destfile = "data/LGBTI_raw.csv")
 
@@ -103,16 +102,15 @@ LGBTI = LGBTI_raw %>%
          `addr:postcode` = cp,
          `contact:phone` = tel_fon,
          latitude = latitud,
-         longitude = longitud)
-
-# TODO: split address.
-
-LGBTI$amenity = "social_facility"
-LGBTI$`social_facility:for` = "LGBTI"
-LGBTI$source = "Generalitat de Catalunya"
-LGBTI$`source:date` = "2019-01-21"
+         longitude = longitud) %>%
+  mutate(amenity = "social_facility") %>%
+  mutate(`social_facility:for` = "LGBTI") %>%
+  mutate(source = "Generalitat de Catalunya") %>%
+  mutate(`source:date` = "2019-01-21")
 
 write.csv(LGBTI, file = "output/LGBTI_clean.csv")
+
+# TODO: split address.
 
 
 #  4. Guide of entities of women of Catalonia  ----------------------------
@@ -147,43 +145,43 @@ entitats_dones_description = entitats_dones %>%
   filter(value == "Sí") %>%
   mutate(value = key) %>%
   spread(key, value) %>%
-  unite(description, 2:22, sep = "; ")
+  unite(description, 2:22, sep = "; ") %>%
+  mutate(description = gsub("NA; ", "", description)) %>%
+  mutate(description = gsub("; NA", "", description)) %>%
+  mutate(description = gsub("coeducaci", "coeducació", description)) %>%
+  mutate(description = gsub("comunicaci_societat_de_la",
+                            "comunicació, societat de la informació i TIC",
+                            description)) %>%
+  mutate(description = gsub("cultura_i_arts", "cultura i arts",
+                            description)) %>%
+  mutate(description = gsub("diversitat_funcional", "diversitat funcional",
+                            description)) %>%
+  mutate(description = gsub("dones_grans", "dones grans", description)) %>%
+  mutate(description = gsub("drets_humans_i_cooperaci",
+                            "drets humans i cooperació", description)) %>%
+  mutate(description = gsub("drets_sexuals_i_reproductius",
+                            "drets sexuals i reproductius", description)) %>%
+  mutate(description = gsub("emprenedoria_i_direcci_d",
+                            "emprenedoria i direcció d'empreses",
+                            description)) %>%
+  mutate(description = gsub("inserci_laboral_i_ocupaci",
+                            "inserció laboral i ocupació", description)) %>%
+  mutate(description = gsub("interculturalitat_i_migraci",
+                            "interculturalitat i migració", description)) %>%
+  mutate(description = gsub("jur_dic_legal", "jurídic i legal",
+                            description)) %>%
+  mutate(description = gsub("m_n_rural", "món rural", description)) %>%
+  mutate(description = gsub("dones_grans", "dones grans", description)) %>%
+  mutate(description = gsub("dones_grans", "dones grans", description)) %>%
+  mutate(description = gsub("pensaments_feministes_i", "pensaments feministes",
+                            description)) %>%
+  mutate(description = gsub("promoci_d_activitats_i",
+                            "promoció d'actitats i reivindicació dels drets de les dones",
+                            description)) %>%
+  mutate(description = gsub("sororitat_i_ajuda_m_tua",
+                            "sororitat i ajuda mútua", description))
 
-entitats_dones_description$description <- gsub("NA; ", "",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("; NA", "",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("coeducaci", "coeducació",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("comunicaci_societat_de_la", "comunicació, societat de la informació i TIC",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("cultura_i_arts", "cultura i arts",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("diversitat_funcional", "diversitat funcional",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("dones_grans", "dones grans",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("drets_humans_i_cooperaci", "drets humans i cooperació",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("drets_sexuals_i_reproductius", "drets sexuals i reproductius",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("emprenedoria_i_direcci_d", "emprenedoria i direcció d'empreses",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("inserci_laboral_i_ocupaci", "inserció laboral i ocupació",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("interculturalitat_i_migraci", "interculturalitat i migració",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("jur_dic_legal", "jurídic i legal",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("m_n_rural", "món rural",
-                                               entitats_dones_description$description)
 
-entitats_dones_description$description <- gsub("pensaments_feministes_i", "pensaments feministes",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("promoci_d_activitats_i", "promoció d'actitats i reivindicació dels drets de les dones",
-                                               entitats_dones_description$description)
-entitats_dones_description$description <- gsub("sororitat_i_ajuda_m_tua", "sororitat i ajuda mútua",
-                                               entitats_dones_description$description)
 
 entitats_dones = entitats_dones %>%
   left_join(entitats_dones_description) %>%
@@ -208,7 +206,7 @@ entitats_dones_address2 = read_excel("data/entitats_dones_depurada.xlsx",
 entitats_dones_address = entitats_dones_address %>%
   left_join(entitats_dones_address2, by = "Id")
 
-# Add geocode from manuallly geocoded.
+# Add geocode from manuallly geocoded by Jess.
 entitats_dones_geocoded = read.csv(file = "data/entitats_dones_geocodificades.csv",
                                    sep = ";", encoding = "Latin-1") %>%
   select(Id, latitud, longitud)
